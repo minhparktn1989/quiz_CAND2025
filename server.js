@@ -1,4 +1,3 @@
-// server.js
 const express = require('express');
 const path = require('path');
 const generateExam = require('./take_exam');
@@ -6,21 +5,15 @@ const generateExam = require('./take_exam');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Middleware: log request (giúp debug)
-app.use((req, res, next) => {
-  console.log(`[${new Date().toISOString()}] ${req.method} ${req.url}`);
-  next();
-});
-
-// Serve static files từ thư mục "public"
+// Serve static files (CSS, JS, ảnh…)
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Route gốc để test
+// Trả về index.html khi vào "/"
 app.get('/', (req, res) => {
-  res.send('🚀 Quiz App is running!');
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-// API: trả về 10 câu random
+// API trả về 10 câu random
 app.get('/api/questions', (req, res) => {
   try {
     const exam = generateExam();
