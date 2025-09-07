@@ -1467,12 +1467,17 @@
         "label": "C",
         "text": "Chào bằng động tác hoặc kết hợp chàobằng lời.",
         "correct": true
-      },
-      {
-        "label": "C",
-        "text": "ầu 6. Khi được giới thiệu là đại biểu đến dự trong các hội nghị, hội thi, hội thao, buỗi lễ, sinh hoạt, học tập, trường hợp đồng chí đang ngồi ở vị trí trên lễ đài thì phải thực hiện chào như thế nào?",
-        "correct": false
-      },
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 60,
+    "question": "Khi được giới thiệu là đại biểu đến dự trong các hội nghị, hội thi, hội thao, buỗi lễ, sinh hoạt, học tập, trường hợp đồng chí đang ngồi ở vị trí trên lễ đài thì phải thực hiện chào như thế nào?",
+    "answers": [
       {
         "label": "A",
         "text": "Đứng dậy đi về giữa lễ đài thực hiện động tác chào.",
@@ -1491,11 +1496,11 @@
     ],
     "meta": {
       "hasExplicitCorrect": true,
-      "answersCount": 7
+      "answersCount": 3
     }
   },
   {
-    "number": 60,
+    "number": 61,
     "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc với đơn vị nếu đơn vị đang đứng thành hàng ngũ, thì đồng chí chỉ huy hoặc trực ban phải làm gì cho đúng với quy định trong Điều lệnh nội vụ CAND?",
     "answers": [
       {
@@ -1520,7 +1525,7 @@
     }
   },
   {
-    "number": 61,
+    "number": 62,
     "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc với đơn vị, nếu đơn vị không đứng thành hàng ngũ, đồng chí chỉ huy hoặc trực ban đơn vị phải làm gì?",
     "answers": [
       {
@@ -1545,7 +1550,7 @@
     }
   },
   {
-    "number": 62,
+    "number": 63,
     "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc, nếu đơn vị đang hội họp, học tập hoặc sinh hoạt tập trung thì đồng chí chỉ huy hoặc trực ban đơn vị phải làm gì?",
     "answers": [
       {
@@ -1570,7 +1575,7 @@
     }
   },
   {
-    "number": 63,
+    "number": 64,
     "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc với đơn vị, trước khi cấp trên ra về, chỉ huy hay trực ban đơn vị phải làm gì?",
     "answers": [
       {
@@ -1595,7 +1600,7 @@
     }
   },
   {
-    "number": 64,
+    "number": 65,
     "question": "Đồng chí cho biết khi giao tiếp với người nước ngoài, CBCS CAND xưng hô thế nào cho đúng với quy định?",
     "answers": [
       {
@@ -1620,7 +1625,7 @@
     }
   },
   {
-    "number": 65,
+    "number": 66,
     "question": "Đồng chí cho biết khi vào phòng của cấp trên, cấp dưới không được mang những loại trang bị nào ?",
     "answers": [
       {
@@ -1645,7 +1650,7 @@
     }
   },
   {
-    "number": 66,
+    "number": 67,
     "question": "Khi gặp cấp dưới tại phòng làm việc, cấp trên phải tỏ thái độ như thế nào cho đúng với quy định?",
     "answers": [
       {
@@ -1670,7 +1675,7 @@
     }
   },
   {
-    "number": 67,
+    "number": 68,
     "question": "Đồng chí cho biết khi làm nhiệm vụ phải ăn ở, sinh hoạt tại nhà dân, CBCS cần thực hiện những yêu cầu gì?",
     "answers": [
       {
@@ -1695,7 +1700,7 @@
     }
   },
   {
-    "number": 68,
+    "number": 69,
     "question": "Điều lệnh nội vụ CAND quy định CBCS CAND khi sinh hoạt ở gia đình, nơi cư trú và những nơi khác phải thực hiện những yêu cầu gì?",
     "answers": [
       {
@@ -1720,7 +1725,7 @@
     }
   },
   {
-    "number": 69,
+    "number": 70,
     "question": "Khi tiếp xúc với các đối tượng vi phạm pháp luật, CBCS ứng xử như thế nào cho đúng với quy định?",
     "answers": [
       {
@@ -1745,7 +1750,7 @@
     }
   },
   {
-    "number": 70,
+    "number": 71,
     "question": "Điều lệnh nội vụ CAND quy định ứng xử khi giao tiếp với nhân đân như thế nào?",
     "answers": [
       {
@@ -1770,7 +1775,7 @@
     }
   },
   {
-    "number": 71,
+    "number": 72,
     "question": "CBCS đi mô tô, xe máy đến cơ quan làm việc phải để như thế nào cho đúng với quy định của Điều lệnh nội vụ CAND?",
     "answers": [
       {
@@ -1795,7 +1800,7 @@
     }
   },
   {
-    "number": 72,
+    "number": 73,
     "question": "Khi ra, vào cổng trụ sở cơ quan, doanh trại, chiến sĩ bảo vệ tại cổng có yêu cầu xuất trình giấy tờ để kiểm tra, đồngchíphải làm gì cho đúng với quy định của Điều lệnh nội vụ CAND?",
     "answers": [
       {
@@ -1820,7 +1825,7 @@
     }
   },
   {
-    "number": 73,
+    "number": 74,
     "question": "Trong cơ quan, doanh trại, nơi ngủ, nghỉ của CBCS sắp xếp như thế nào cho đúng với Điều lệnh nội vụ CAND?",
     "answers": [
       {
@@ -1845,7 +1850,7 @@
     }
   },
   {
-    "number": 74,
+    "number": 75,
     "question": "CBCS khi ăn tại nhàăn, nhà bếp cơ quan phải mặc như thế nào cho đúng với Điều lệnh nội vụ CAND?",
     "answers": [
       {
@@ -1870,7 +1875,7 @@
     }
   },
   {
-    "number": 75,
+    "number": 76,
     "question": "Đồng chí cho biết khi có bạn bè, người thân đến thăm, CBCS có được tiếp khách tại phòng ở đơn vị không?",
     "answers": [
       {
@@ -1895,7 +1900,7 @@
     }
   },
   {
-    "number": 76,
+    "number": 77,
     "question": "Trong các trường hợp sau trường hợp nào không được mặc thườngphụckhi làm nhiệm vụ",
     "answers": [
       {
@@ -1920,7 +1925,7 @@
     }
   },
   {
-    "number": 77,
+    "number": 78,
     "question": "Đồng chí hãy chobiếttrong các nội dung dưới đây nội dung nào chỉtrách nhiệm của người chỉ huykhi chỉ huyđội ngũ?",
     "answers": [
       {
@@ -1945,7 +1950,7 @@
     }
   },
   {
-    "number": 78,
+    "number": 79,
     "question": "Trong trường hợp do yêu cầu công tác, chiến đấu cùng thực hiện nhiệm vụ, lãnh đạo cấp trên chưa chỉ định người chỉ huy thì phải căn cứ vào đâu để chọn ra người chỉ huy ?",
     "answers": [
       {
@@ -1970,7 +1975,7 @@
     }
   },
   {
-    "number": 79,
+    "number": 80,
     "question": "CBCS có được chuyển tài liệu mật qua mạng internet, mạng máy tính không?",
     "answers": [
       {
@@ -1995,7 +2000,7 @@
     }
   },
   {
-    "number": 80,
+    "number": 81,
     "question": "Đồng chícho biết Điều lệnh đội ngũ quy định động tác chào thì cánh tay trên nâng lên ngang với thân người, tạo với thân người một góc bao nhiêu độ?",
     "answers": [
       {
@@ -2020,7 +2025,7 @@
     }
   },
   {
-    "number": 81,
+    "number": 82,
     "question": "Đồng chí cho biết giãn cách giữa hai cán bộ, chiến sĩ đứng cạnh nhau trên 1 hàng ngang là bao nhiêu?",
     "answers": [
       {
@@ -2045,7 +2050,7 @@
     }
   },
   {
-    "number": 82,
+    "number": 83,
     "question": "Đồng chí cho biết cự ly giữa hai cán bộ, chiến sĩ đứng liền trước,sau là bao nhiêu?",
     "answers": [
       {
@@ -2070,7 +2075,7 @@
     }
   },
   {
-    "number": 83,
+    "number": 84,
     "question": "Đồng chí cho biết độ dài bước tiến, bước lùi là bao nhiêu?",
     "answers": [
       {
@@ -2095,7 +2100,7 @@
     }
   },
   {
-    "number": 84,
+    "number": 85,
     "question": "Đồng chí cho biết độ dài bước đi đều, đi nghiêm là bao nhiêu?",
     "answers": [
       {
@@ -2120,7 +2125,7 @@
     }
   },
   {
-    "number": 85,
+    "number": 86,
     "question": "Đồng chí cho biết độ dài bước chạy là bao nhiêu?",
     "answers": [
       {
@@ -2145,7 +2150,7 @@
     }
   },
   {
-    "number": 86,
+    "number": 87,
     "question": "Điều lệnh đội ngũ CAND quy định độ dài bước qua phải, qua trái là bao nhiêu?",
     "answers": [
       {
@@ -2170,7 +2175,7 @@
     }
   },
   {
-    "number": 87,
+    "number": 88,
     "question": "Đồng chí cho biết tốc độ đi đều, đi nghiêm là bao nhiêu?",
     "answers": [
       {
@@ -2195,7 +2200,7 @@
     }
   },
   {
-    "number": 88,
+    "number": 89,
     "question": "Đồng chí cho biết tốc độ chạy đều là bao nhiêu?",
     "answers": [
       {
@@ -2220,7 +2225,7 @@
     }
   },
   {
-    "number": 89,
+    "number": 90,
     "question": "Đồng chí cho biếtvị trícủa lãnh đạo, chỉ huy trong đội hình tiểu đội, trung đội hàng dọc?",
     "answers": [
       {
@@ -2245,7 +2250,7 @@
     }
   },
   {
-    "number": 90,
+    "number": 91,
     "question": "Đồng chí cho biết vị trí của lãnh đạo, chỉ huy trong đội hìnhhàng ngang?",
     "answers": [
       {
@@ -2270,7 +2275,7 @@
     }
   },
   {
-    "number": 91,
+    "number": 92,
     "question": "Đồng chí cho biết vị tríđôn đốc và truyền đạt mệnh lệnh của chỉ huy đội hình tiểu đội hàng ngang?",
     "answers": [
       {
@@ -2295,7 +2300,7 @@
     }
   },
   {
-    "number": 92,
+    "number": 93,
     "question": "Đồng chí cho biết vị trí đôn đốc và truyền đạt mệnh lệnh của chỉ huy đội hình trung đội hàng ngang?",
     "answers": [
       {
@@ -2320,7 +2325,7 @@
     }
   },
   {
-    "number": 93,
+    "number": 94,
     "question": "Đồng chí cho biết vị trí chỉnh hàng của chỉ huy đội hình tiểu đội hàng ngang?",
     "answers": [
       {
@@ -2345,7 +2350,7 @@
     }
   },
   {
-    "number": 94,
+    "number": 95,
     "question": "Đồng chí cho biết vị trí chỉnh hàng của chỉ huy đội hình trung đội hàng ngang?",
     "answers": [
       {
@@ -2370,7 +2375,7 @@
     }
   },
   {
-    "number": 95,
+    "number": 96,
     "question": "Đồng chí cho biết vị trí đôn đốc và truyền đạt mệnh lệnh của chỉ huy đội hình tiểu đội hàng dọc?",
     "answers": [
       {
@@ -2395,7 +2400,7 @@
     }
   },
   {
-    "number": 96,
+    "number": 97,
     "question": "Đồng chí cho biết vị trí chỉnh hàng của chỉ huy đội hình tiểu đội hàng dọc?",
     "answers": [
       {
@@ -2420,7 +2425,7 @@
     }
   },
   {
-    "number": 97,
+    "number": 98,
     "question": "Đồng chí cho biếtCBCSkhi di chuyển trên 5 bước thì phải thực hiện động tác di chuyển nào?",
     "answers": [
       {
@@ -2445,7 +2450,7 @@
     }
   },
   {
-    "number": 98,
+    "number": 99,
     "question": "Đồng chí cho biếtđơn vị khi di chuyển trên 5 bước thì phải thực hiện động tác di chuyển nào?",
     "answers": [
       {
@@ -2470,7 +2475,7 @@
     }
   },
   {
-    "number": 99,
+    "number": 100,
     "question": "Đồng chí cho biết vị trí chỉ huy khi tiểu đội hành tiến?",
     "answers": [
       {
@@ -2495,7 +2500,7 @@
     }
   },
   {
-    "number": 100,
+    "number": 101,
     "question": "Trong hàng ngũ, CBCS nếu muốn ra khỏi hàng hoặc phát biểuý kiến thì giơ cánh tay nào lên và chếch về trước bao nhiêu độ.",
     "answers": [
       {
@@ -2520,7 +2525,7 @@
     }
   },
   {
-    "number": 101,
+    "number": 102,
     "question": "Đồng chí cho biết vị trí của chỉ huy đơn vị cấp đại đội đứng trong đội hình hàng ngang ?",
     "answers": [
       {
@@ -2545,7 +2550,7 @@
     }
   },
   {
-    "number": 102,
+    "number": 103,
     "question": "Vị trí đôn đốc và truyền đạt mệnh lệnh đối với đội hình tiểu đội hàng ngang, đồng chí chỉ huy đứng cách đội hình đơn vị mấy bước?",
     "answers": [
       {
@@ -2553,13 +2558,13 @@
         "text": "Từ 3 đến 5 bước.",
         "correct": true
       },
-      {
+	  {
         "label": "B",
         "text": "Từ 5 đến 8 bước.",
         "correct": false
       },
-      {
-        "label": "A",
+	  {
+        "label": "C",
         "text": "C. Từ 8 đến 10 bước.",
         "correct": false
       }
@@ -2570,7 +2575,7 @@
     }
   },
   {
-    "number": 103,
+    "number": 104,
     "question": "Vị trí đôn đốc và truyền đạt mệnh lệnh đối với đội hình trung đội hàng ngang, đồng chí chỉ huy đứng cách đội hình đơn vị mấy bước?",
     "answers": [
       {
@@ -2578,13 +2583,14 @@
         "text": "Từ 3 đến 5 bước.",
         "correct": false
       },
-      {
+	  {
         "label": "B",
-        "text": "Từ 5 đến 8 bước.",
+        "text": "B. Từ 5 đến 8 bước.",
         "correct": true
-      },{
+      },
+	  {
         "label": "C",
-        "text": "Từ 8 đến 10 bước.",
+        "text": "C. Từ 8 đến 10 bước.",
         "correct": false
       }
     ],
@@ -2594,20 +2600,20 @@
     }
   },
   {
-    "number": 104,
+    "number": 105,
     "question": "Đồng chí cho biết vị trí đôn đốc của người chỉ huy đứng chếch đội hình hàng dọc bao nhiêu độ (°)?",
     "answers": [
       {
         "label": "A",
-        "text": "30°",
+        "text": "30°B.",
         "correct": false
       },
-      {
+	  {
         "label": "B",
         "text": "45°",
         "correct": true
       },
-      {
+	  {
         "label": "C",
         "text": "60°",
         "correct": false
@@ -2619,7 +2625,7 @@
     }
   },
   {
-    "number": 105,
+    "number": 106,
     "question": "Đồng chí cho biết khi chỉnh hàng dọc đội hình tiểu đội, người chỉ huy đứngởvị trí nào?",
     "answers": [
       {
@@ -2644,7 +2650,7 @@
     }
   },
   {
-    "number": 106,
+    "number": 107,
     "question": "Khi chỉ huy tiểu đội 1 hàng dọc hành tiến, người chỉ huy đi ở vị trí nào của đội hình?",
     "answers": [
       {
@@ -2669,7 +2675,7 @@
     }
   },
   {
-    "number": 107,
+    "number": 108,
     "question": "Thông tư về Điều lệnh đội ngũ CAND quy định: Khẩu lệnh có dự lệnh và động lệnh, đồng chí phải hô như thế nào?",
     "answers": [
       {
@@ -2694,7 +2700,7 @@
     }
   },
   {
-    "number": 108,
+    "number": 109,
     "question": "Đồng chí cho biết trách nhiệm của người chỉ huy khi chỉ huy đội ngũ?",
     "answers": [
       {
@@ -2719,7 +2725,7 @@
     }
   },
   {
-    "number": 109,
+    "number": 110,
     "question": "Đồng chí cho biết cách nhận bằng huân chương, huy chương, bằng khen, giấy khen (có khung) sau đây, cách nào đúng quy định của Thông tư số 36 về Nghi lễ CAND?",
     "answers": [
       {
@@ -2744,7 +2750,7 @@
     }
   },
   {
-    "number": 110,
+    "number": 111,
     "question": "Đồng chí cho biết khi nhận phần thưởng là các loại giấy khen hoặc các quyết định không có có khung sau đây, cách nào đúng quy định của Thông tư số 36 về Nghi lễ CAND?",
     "answers": [
       {
@@ -2769,7 +2775,7 @@
     }
   },
   {
-    "number": 111,
+    "number": 112,
     "question": "Chào cờ Tổ quốc định kỳ hằng tháng, được tổ chức vào thời gian nào?",
     "answers": [
       {
@@ -2794,7 +2800,7 @@
     }
   },
   {
-    "number": 112,
+    "number": 113,
     "question": "Khi chào cờ Tổ quốc ngoài trời, đồng chíđọc 5 lời thềdanh dự đứng ở vị trí nào ?",
     "answers": [
       {
@@ -2819,7 +2825,7 @@
     }
   },
   {
-    "number": 113,
+    "number": 114,
     "question": "Khi lãnh đạo cấp trên trao Huân chương hoặc Bằng khen, Giấy khen, trước khi nhận, CBCS phải thực hiện những động tác nào?",
     "answers": [
       {
@@ -2844,7 +2850,7 @@
     }
   },
   {
-    "number": 114,
+    "number": 115,
     "question": "Khi cấp trên trao Huân chương hoặc Bằng Khen, Giấy khen, CBCS nhận xong phải thực hiện động tác gì?",
     "answers": [
       {
@@ -2869,7 +2875,7 @@
     }
   },
   {
-    "number": 115,
+    "number": 116,
     "question": "Chào cờ Tổ quốc ngoài trời, khi nghe dứt khẩu lệnh \"Chào cờ - chào”, những đồng chí nào phai thực hiện động tác chào?",
     "answers": [
       {
@@ -2894,7 +2900,7 @@
     }
   },
   {
-    "number": 116,
+    "number": 117,
     "question": "Khi chào cờ Tổ quốc tổ chức ở ngoài trời, từ khi vào vị trí tập hợp đến khi kết thúc buổi lễ đồng chí chủ lễ đứng ở các vị trí nào sau đây?",
     "answers": [
       {
@@ -2919,7 +2925,7 @@
     }
   },
   {
-    "number": 117,
+    "number": 118,
     "question": "Khi chào cờ Tổ quốc tổ chức ở ngoài trời, từ khi vào vị trí tập hợp đến khi kết thúc buổi lễ đồng chí trực ban phải đứng ở các vị trí nào sau đây?",
     "answers": [
       {
@@ -2944,7 +2950,7 @@
     }
   },
   {
-    "number": 118,
+    "number": 119,
     "question": "Khi chào cờ Tổ quốc trong nhà có bàn ghế ngồi, trực ban buổi lễ đứng ở vị trí nào?",
     "answers": [
       {
@@ -2969,7 +2975,7 @@
     }
   },
   {
-    "number": 119,
+    "number": 120,
     "question": "Đồng chí cho biết đội hình chào cờ Tổ quốc khi tổ chức buổi lễởtrong nhà có bàn, ghế ngồi?",
     "answers": [
       {
@@ -2994,7 +3000,7 @@
     }
   },
   {
-    "number": 120,
+    "number": 121,
     "question": "Chào cờ Tổ quốc ở trong nhà có bàn ghế ngồi, khi nghe dứt khẩu lệnh \"Chào cờ - chào\", những đồng chí nào phải thực hiện động tác chào?",
     "answers": [
       {
@@ -3019,7 +3025,7 @@
     }
   },
   {
-    "number": 121,
+    "number": 122,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không tổ chức giao ban; không tổ chức trực chỉ huy, trực ban, thường trực chiến đấu; không xây dựng chương trình, kế hoạch công tác tuần, tháng; không tổ chức chào cờ Tổ quốc định kỳ thì:",
     "answers": [
       {
@@ -3044,7 +3050,7 @@
     }
   },
   {
-    "number": 122,
+    "number": 123,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng chức trách, nhiệm vụ được giao thì:",
     "answers": [
       {
@@ -3069,7 +3075,7 @@
     }
   },
   {
-    "number": 123,
+    "number": 124,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng quy định của Bộ trưởng Bộ Công an về quản lý tài liệu; quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện nghiệp vụ; quản lý vật chứng, phương tiện và đồ vật tạm giữ; quản lý tài sản, phương tiện của đơn vị; thu hồi trang phục, Công an hiệu, cấp hiệu, phù hiệu, số hiệu, cành tùng, mũ kê-pi; thu hồi vũ khí, công cụ hỗ trợ, phương tiện nghiệp vụ, các giấy tờ công tác khác thì:",
     "answers": [
       {
@@ -3094,7 +3100,7 @@
     }
   },
   {
-    "number": 124,
+    "number": 125,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) trong giờ làm việc, giờ trực, ngày trực tại đơn vị có từ 5% cán bộ chiến sĩ trở lên không mặc trang phục CAND hoặc mặc trang phục không đúng quy định của Bộ trưởng Bộ Công an (trừ trường hợp Bộ có quy định khác); lập bàn thờ, để bát hương, thắp hương trong hội trường, phòng họp, phòng khách, phòng làm việc, phòng ở, nhà kho, nhà ăn tập thể, nơi để hồ sơ tài liệu thuộc phạm vi trụ sở đơn vị (trờ khi tổ chức lễ tang) thì:",
     "answers": [
       {
@@ -3119,7 +3125,7 @@
     }
   },
   {
-    "number": 125,
+    "number": 126,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng quy định của Bộ trưởng Bộ Công an về chế độ giao ban, hội họp, hội nghị, buổi lễ, học tập, huấn luyện, hội thi, hội thao; chế độ nghỉ cho cán bộ, chiến sĩ và trang trí khánh tiết hội trường, phòng họp của đơn vị thì:",
     "answers": [
       {
@@ -3144,7 +3150,7 @@
     }
   },
   {
-    "number": 126,
+    "number": 127,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) bố trí trực chỉ huy, trực ban, thường trực chiến đấu không đúng quy định của Bộ trưởng Bộ Công an thì:",
     "answers": [
       {
@@ -3169,7 +3175,7 @@
     }
   },
   {
-    "number": 127,
+    "number": 128,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng quy định của Bộ trưởng Bộ Công an về nội vụ, vệ sinh trụ sở cơ quan, doanh trại; nội vụ, vệ sinh nơi ăn, ngủ, nghỉ của cán bộ, chiến sĩ; nội vụ, vệ sinh nơi sinh hoạt văn hóa, các trung tâm, cơ sở tập luyện, thi đấu điều lệnh, quân sự, võ thuật, thể dục, thể thao; nội vụ, vệ sinh nơi tiếp khách; công tá phòng, chống cháy, nổ, tiên tai và bảo vệ môi trường thì:",
     "answers": [
       {
@@ -3194,7 +3200,7 @@
     }
   },
   {
-    "number": 128,
+    "number": 129,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không xây dựng chương trình, kế hoạch công tác quý, 6 tháng, năm; không tổ chức sơ kết, tổng kết rút kinh nghiệm các chuyên đề công tác lớn, dài hạn, 6 tháng, 01 năm thì:",
     "answers": [
       {
@@ -3219,7 +3225,7 @@
     }
   },
   {
-    "number": 129,
+    "number": 130,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không phổ biến, không tổ chức thực hiện chỉ thị, mệnh lệnh, quyết định, quy trình, quy chế, quy định của cấp trên; bao che, xử lý không đúng quy định hoặc không xử lý vi phạm điều lệnh thì:",
     "answers": [
       {
@@ -3244,7 +3250,7 @@
     }
   },
   {
-    "number": 130,
+    "number": 131,
     "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không xây dựng, triển khai kế hoạch công tác điều lệnh, quân sự, võ thuật; không quán triệt đầy đủ, kịp thời các văn bản chỉ đạo của cấp trên về công tác điều lệnh, quân sự, võ thuật thì:",
     "answers": [
       {
@@ -3269,7 +3275,7 @@
     }
   },
   {
-    "number": 131,
+    "number": 132,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về xưng hô khi giao tiếp, chào, chào báo cáo; ứng xử khi giao tiếp trong và ngoài lực lượng Công an nhân dân; ứng xử khi giao tiếp qua các phương tiện thông tin; khi làm nhiệm vụ tư thế, tác phong không nghiêm túc, để tay vào túi quần hoặc túi áo; đeo kính màu đen khi trực tiếp giải quyết công việc với người khác thì:",
     "answers": [
       {
@@ -3294,7 +3300,7 @@
     }
   },
   {
-    "number": 132,
+    "number": 133,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về kỷ luật công tác; kỷ luật khi hội họp, buổi lễ, học tập, giao ban; kỷ luật khi huấn luyện điều lệnh, quân sự, võ thuật, thể thao thì:",
     "answers": [
       {
@@ -3319,7 +3325,7 @@
     }
   },
   {
-    "number": 133,
+    "number": 134,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về sử dụng trang phục Công an nhân dân thì:",
     "answers": [
       {
@@ -3344,7 +3350,7 @@
     }
   },
   {
-    "number": 134,
+    "number": 135,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về nội vụ, vệ sinh trụ sở cơ quan, doanh trại; nội vụ, vệ sinh nơi ăn, ngủ, nghỉ của cán bộ, chiến sĩ; nội vụ, vệ sinh nơi sinh hoạt văn hóa, các trung tâm, cơ sở tập luyện, thi đấu điều lệnh, quân sự, võ thuật, thể dục, thể thao; nội vụ, vệ sinh nơi tiếp khách; công tác phòng, chống cháy, nổ, tiên tai và bảo vệ môi trường thì:",
     "answers": [
       {
@@ -3369,7 +3375,7 @@
     }
   },
   {
-    "number": 135,
+    "number": 136,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ nhuộm tác khác màu đen và thực hiện không đúng quy định của Bộ trưởng Bộ Công an về mẫu tóc cán bộ, chiến sĩ Công an nhân dân; móng tay để dài, sơn màu, gắn đá, đồ trang sức; cán bộ, chiến sĩ nam để râu, ria ở cằm, ở cổ và trên mặt thì:",
     "answers": [
       {
@@ -3394,7 +3400,7 @@
     }
   },
   {
-    "number": 136,
+    "number": 137,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ không tham gia chào cờ Tổ quốc theo quy định; khi làm nhiệm vụ trực ban, trực tiếp dân không ghi chép nội dung liên quan trong ca trực vào sổ, không đeo băng trực ban, không ký nhận, bàn giao hoặc giao, nhận không đầy đủ với ca trước hoặc sau ca trực của mình thì:",
     "answers": [
       {
@@ -3419,7 +3425,7 @@
     }
   },
   {
-    "number": 137,
+    "number": 138,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ trong giờ làm việc, hội họp, học tập không mặc trang phục theo quy định, vắng mặc không có ký do, mang phương tiện có tính năng thông tin liên lạc vào phòng họp khi đã có quy định cấm; thực hiện không đúng các quy định của Bộ trưởng Bộ Công an về quy tắc ứng xử của Công an nhân dân thì:",
     "answers": [
       {
@@ -3444,7 +3450,7 @@
     }
   },
   {
-    "number": 138,
+    "number": 139,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ không nắm vững quy định của Bộ trưởng Bộ Công an về chức trách, nhiệm vụ và các mối quan hệ công tác; làm việc không có chương trình kế hoạch; không xây dựng chương trình, kế hoạch công tác tuần; báo cáo không đầy đủ, kịp thời kết quả thực hiện nhiệm vụ; vi phạm chế độ nghỉ dưỡng, nghỉ phép thì:",
     "answers": [
       {
@@ -3469,7 +3475,7 @@
     }
   },
   {
-    "number": 139,
+    "number": 140,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ uống rượu, bia và các chất có cồn trước, trong giờ làm việc, giờ nghỉ trưa của ngày làm việc, ngày trực, giờ trực; vi phạm chế độ trực chỉ huy, trực ban, thường trực chiến đấu thì:",
     "answers": [
       {
@@ -3494,7 +3500,7 @@
     }
   },
   {
-    "number": 140,
+    "number": 141,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ vi phạm các quy định về nếp sống văn minh, gia đình văn hóa; quy tắc, quy ước của chính quyền địa phương nơi công tác hoặc cư trú thì:",
     "answers": [
       {
@@ -3519,7 +3525,7 @@
     }
   },
   {
-    "number": 141,
+    "number": 142,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ khi phát hiện vụ việc liên quan đến chức năng, nhiệm vụ của đơn vị cần phải giải quyết nhưng không giải quyết hoặc không báo cáo lãnh đạo cấp có thẩm quyền thì:",
     "answers": [
       {
@@ -3544,7 +3550,7 @@
     }
   },
   {
-    "number": 142,
+    "number": 143,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ gây mất đoàn kết nội bộ, ảnh hưởng đến việc thực hiện nhiệm vụ chính trị và uy tín của lực lượng Công an thì:",
     "answers": [
       {
@@ -3569,7 +3575,7 @@
     }
   },
   {
-    "number": 143,
+    "number": 144,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ khi chuyển sang đơn vị khác, lực lượng khác trong Công an nhân dân cố ý không nộp lại vũ khí, công cụ hỗ trợ, vật liệu nổ, phương tiện nghiệp vụ, tài liệu và các giấy tờ có liên quan (do lực lượng Công an cấp) cho đơn vị cũ thì:",
     "answers": [
       {
@@ -3594,7 +3600,7 @@
     }
   },
   {
-    "number": 144,
+    "number": 145,
     "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ làm mất giấy tờ do lực lượng Công an cấp (thẻ điều tra viên, thẻ tuần tra kiểm soát, giấy kiểm tra điều lệnh) nhưng không kịp thời báo cáo để người khác lợi dụng thực hiện hành vi vi phạm pháp luật thì:",
     "answers": [
       {
@@ -3619,7 +3625,7 @@
     }
   },
   {
-    "number": 145,
+    "number": 146,
     "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, cán bộ, chiến sĩ có nồng độ cồn trong hơi thở khi điều khiển phương tiện tham gia giao thông thì bị xem xét xử lý bằng hình thức gì?",
     "answers": [
       {
@@ -3644,7 +3650,7 @@
     }
   },
   {
-    "number": 146,
+    "number": 147,
     "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, cán bộ, chiến sĩ sử dụng rượu, bia, chất có cồn trong ngày làm việc, ngày trực, giờ nghỉ trưa của ngày làm việc thì bị xem xét xử lý bằng hình thức gì?",
     "answers": [
       {
@@ -3669,7 +3675,7 @@
     }
   },
   {
-    "number": 147,
+    "number": 148,
     "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, cán bộ, chiến sĩ bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
     "answers": [
       {
@@ -3694,7 +3700,7 @@
     }
   },
   {
-    "number": 148,
+    "number": 149,
     "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, trách nhiệm liên đới của lãnh đạo cấp phòng, cấp đội trong ca trực, có cán bộ, chiến sĩ sử dụng rượu, bia, chất có cồn hoặc bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
     "answers": [
       {
@@ -3719,7 +3725,7 @@
     }
   },
   {
-    "number": 149,
+    "number": 150,
     "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, trách nhiệm liên đới của lãnh đạo cấp phòng, cấp đội trong ca trực, có từ 02 cán bộ, chiến sĩ trở lên sử dụng rượu, bia, chất có cồn hoặc bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
     "answers": [
       {
@@ -3744,7 +3750,7 @@
     }
   },
   {
-    "number": 150,
+    "number": 151,
     "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, đối với lãnh đạo cấp phòng, cấp đội sử dụng rượu, bia, chất có cồn trong ngày làm việc, ngày trực, giờ nghỉ trưa của ngày làm việc; sử dụng rượu, bia, chất có cồn trước khi điều khiển phương tiện tham gia giao thông; bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
     "answers": [
       {
