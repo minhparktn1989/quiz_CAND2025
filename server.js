@@ -15,7 +15,7 @@ app.use((req, res, next) => {
 // Serve static files từ thư mục "public"
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Route gốc để test / UptimeRobot ping
+// Route gốc để test
 app.get('/', (req, res) => {
   res.send('🚀 Quiz App is running!');
 });
@@ -33,14 +33,5 @@ app.get('/api/questions', (req, res) => {
 
 // Khởi động server
 app.listen(PORT, () => {
-  console.log(`✅ Server chạy tại http://localhost:${PORT}`);
+  console.log(`✅ Server chạy tại cổng ${PORT}`);
 });
-
-// 🟢 Tự ping chính nó mỗi 4 phút để giữ online
-if (process.env.REPL_ID) {
-  setInterval(() => {
-    fetch(`http://${process.env.REPL_SLUG}.${process.env.REPL_OWNER}.repl.co/`)
-      .then(res => console.log('Self ping OK:', res.status))
-      .catch(err => console.error('Self ping lỗi:', err));
-  }, 4 * 60 * 1000); // 4 phút
-}
