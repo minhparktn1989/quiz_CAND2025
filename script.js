@@ -1,4 +1,21 @@
 async function startQuiz() {
+  // 👉 chỉ cần chạy 1 lần để thêm background
+  if (!document.getElementById("quiz-bg")) {
+    const bg = document.createElement('div');
+    bg.id = "quiz-bg";
+    Object.assign(bg.style, {
+      position: 'fixed',
+      inset: '0',
+      backgroundImage: 'url("/bg.jpg")', // 🔥 đổi link ảnh ở đây
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      opacity: '0.2',
+      zIndex: '-1',
+      pointerEvents: 'none'
+    });
+    document.body.appendChild(bg);
+  }
+
   const res = await fetch('/api/questions');
   const questions = await res.json();
   const quizDiv = document.getElementById('quiz');
@@ -51,11 +68,13 @@ async function startQuiz() {
 
       if (userAns === correct.label) {
         score++;
-        qResult.innerHTML = `Câu ${index + 1}: ✅ Đúng (${correct.label}. ${correct.text})`;
-        qResult.style.color = 'green';
+        qResult.innerHTML = `<p><b>Câu ${index + 1}: ${q.question}</b></p>
+      <p style="color:green">✅ Đúng (${correct.label}. ${correct.text})</p>
+    `;
       } else {
         const userText = q.answers.find(a => a.label === userAns)?.text || 'Chưa chọn';
-        qResult.innerHTML = `Câu ${index + 1}: ❌ Sai <br>
+        qResult.innerHTML = `<p><b>Câu ${index + 1}: ${q.question}</b></p>
+      <p style="color:red">❌ Sai</p>
         ➤ Bạn chọn: ${userAns ? userAns + '. ' + userText : 'Chưa chọn'} <br>
         ➤ Đáp án đúng: ${correct.label}. ${correct.text}`;
         qResult.style.color = 'red';
@@ -67,6 +86,17 @@ async function startQuiz() {
     const scoreP = document.createElement('h3');
     scoreP.innerText = `Tổng điểm: ${score} / ${questions.length}`;
     resultDiv.prepend(scoreP);
+
+    // 👉 thêm thông báo đỗ / trượt
+    const message = document.createElement('h2');
+    if (score >= 8) {
+      message.innerText = "🎉 Bạn đã đỗ rồi!";
+      message.style.color = "green";
+    } else {
+      message.innerText = "❌ Ối dồi ôi!Bạn đã Mất 5 lít rồi";
+      message.style.color = "red";
+    }
+    resultDiv.prepend(message);
 
     quizDiv.innerHTML = '';
     quizDiv.appendChild(resultDiv);
