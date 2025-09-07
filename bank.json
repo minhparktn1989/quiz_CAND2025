@@ -1,0 +1,3742 @@
+[
+  {
+    "number": 1,
+    "question": "Thông tư quy định về Điều lệnh nội vụ CAND gồm có mấy chương, bao nhiêu điều?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Có 5 chương, 62 điều.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Có 12 chương, 53 điều.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Có 8 chương, 50 điều.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 2,
+    "question": "Phạm vi điều chỉnh của Điều lệnh nội vụ CAND quy định những vấn đề gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Quy định chức trách, nhiệm vụ chung của Công an nhân dân Việt Nam, Công an nhân dân là lực lượng vũ trang trọng yếu, tin cậy của Đảng Cộng sản Việt Nam và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Quy định chức trách, nhiệm vụ và mối quan hệ công tác; chế độ làm việc, công tác, chiến đấu, hội họp, huấn luyện, học tập, bảo mật, nghỉ ngơi; quản lý tài liệu, vũ khí, công cụ hỗ trợ, vật chứng, phương tiện nghiệp vụ, tài chính, tài sản; quy định về sử dụng trang phục, tư thế, lễ tiết, tác phong; nội vụ, vệ sinh công sở của các đơn vị và cán bộ, chiến sĩ CAND.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Quy định lực lượng CAND khi thực hiện nhiệm vụ phải theo quy trình, quy chế, chế độ công tác, lề lối làm việc, tác phong chính quy.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 3,
+    "question": "Thông tư số 34/2019/TT-BCA vềĐiều lệnh nội vụ CANDquy định lãnh đạo chỉ huy Công an các cấpcó mấy chức trách, nhiệm vụ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Có 03 chức trách, nhiệm vụ.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Có 05 chức trách, nhiệm vụ.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Có 07 chức trách, nhiệm vụ.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 4,
+    "question": "Chức trách, nhiệm vụ của lãnh đạo chỉ huy Công an các cấp về công tác xây dựng lực lượng CANDlà:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Thực hiện nguyên tắc tập trung dân chủ, tập thể lãnh đạo, cá nhân phụ trách, quy chế làm việc của cấp ủy và quy chế làm việc của đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Thực hiện công tác giáo dục,chính trị,tư tưởng; xây dựng và kiện toàn tổ chức bộ máy; quy hoạch, đào tạo và bồi dưỡng cán bộ, thực hiện nghiêm túc chế độ quản lý cán bộ; chăm lo xây dựng, củng cố và tăng cường đoàn kết nội bộ; động viên, khen thưởng kịp thời và xử lý kỷ luật nghiêm theo đúng quy định của Nhà nước và của Bộ Công annhằm xây dựng đơn vị trong sạch, vững mạnh toàn diện, đáp ứng yêu cầu, nhiệm vụ chính trị.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Quản lý tài chính, tài sản, vật tư, vũ khí, công cụ hỗ trợ, phương tiện, trang thiết bị kỹ thuật nghiệp vụ của đơn vị đúng quy định của pháp luật và của Bộ Công an, bảo đảm yêu cầu công tác, chiến đấu.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 5,
+    "question": "Quan hệ giữa cấp ủy Đảng và thủ trưởng Công an cùng cấp là mối quan hệnhư thếnào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Quan hệ lãnh đạo và chấp hành.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Quan hệ đồng cấp.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Quan hệ cấp trên, cấp dưới.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 6,
+    "question": "Quan hệ giữa thủ trưởng với các phó thủ trưởng là mối quan hệ như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Là quan hệ cấp trên với cấp dưới theo nguyên tắc cấp dưới chấp hành cấp trên.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Là quan hệ giữa người chỉ huy cao nhất của đơn vị với cấp phó cùng cấp.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Là quan hệ bình đẳng trong tập thể lãnh đạo, chỉ huy, thực hiện theo phân công nhiệm vụ được giao.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 7,
+    "question": "Quan hệ giữa CBCS CAND là mối quan hệ như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Là quan hệ bình đẳng, tôn trọng lẫn nhau, cùng thực hiện nhiệm vụ được cấp trên giao.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Là quan hệ bình đẳng trong tập thể đơn vị, giúp đỡ nhau thực hiện nhiệm vụ được giao.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Là quan hệ đồng chí, đồng đội, đồng nghiệp, tôn trọng, đoàn kết, thương yêu, giúp đỡ nhau hoàn thành nhiệm vụ.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 8,
+    "question": "Khi thi hành nhiệm vụ,CBCScấp dướithuộc quyền phải tuân thủ điều gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải tuyệt đối chấp hành mệnh lệnh cấp trên trong khi thi hành nhiệm vụ.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Phải tôn trọng, lắng nghe ý kiến của cấp trên.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải nghiêm chỉnh chấp hành nhiệm vụ được giao.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 9,
+    "question": "Khi thủ trưởng đi công tác vắng thì phải chỉ định ai là người thay thế mình?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chỉ định một phó thủ trưởng thay thế mình phụ trách đơn vị.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Chỉ định một đồng chí trong cấp ủy thay thế mình điều hành công việc.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chỉ định đồng chí sĩ quan trực ban đơn vị thay thế mình điều hành công việc.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 10,
+    "question": "Khi làm nhiệm vụ; quan hệ tiếp xúc với tổ chức, cá nhân nước ngoài, CBCS CAND phải chấp hành những quy định nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phảichấp hành nghiêm chỉnh pháp luật của Nhà nước, các điều ước quốc tế mà Việt Nam và nước đó đã ký kết hoặc cùng gia nhập, phê chuẩn, các quy định của Bộ trưởng Bộ Công an và quy chế ngoại giao; phải tôn trọng pháp luật, phong tục, tập quán của nước sở tại; không làm điều gì tổn hại đến danh dự của Tổ quốc, của Đảng và lực lượng Công an nhân dân Việt Nam.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Phải có thái độ đúng mực tôn trọng mọi người, không làm điều gì tổn hại đến danh dự của Tổ quốc và lực lượng CAND.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải chấp hành nghiêm chỉnh pháp luật của Nhà nước, thẳng thắn trao đổi công việc với tổ chức, cá nhân nước ngoài khi họ có ý kiến đề xuất, kiến nghị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 11,
+    "question": "Cấp trên ra chỉ thị, mệnh lệnh như thế nào cho đúng với quy định Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tùy tình hình thực tế công việc đềra chỉ thị, mệnh lệnh đối với CBCS.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Ra chỉ thị, mệnh lệnh trực tiếp không cần qua thủ trưởng quản lý CBCS.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cấp trên ra chỉ thị, mệnh lệnh phải qua từng cấp, từ trên xuống dưới theo hệ thống tổ chức của lực lượng CAND.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 12,
+    "question": "Điều lệnh nội vụCANDquy định, khi cần thiết, cấp trên có được ra chỉ thị, mệnh lệnh trực tiếp không?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không được ra chỉ thị, mệnh lệnh trực tiếp.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Được ra chỉ thị, mệnh lệnh trực tiếp không qua thủ trưởng quản lý CBCS.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Thực hiện theo quy chế làm việc của đơn vị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 13,
+    "question": "Khi cấp trên ra chỉ thị, mệnh lệnh, người nhận chỉ thị, mệnh lệnh trực tiếp của cấp trên phải thực hiện thế nào cho đúng với quy định của Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Thi hành ngay với tinh thần trách nhiệm, khẩn trương, nghiêm túc.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Báo cáo với thủ trưởng trực tiếp của mình biết nội dung công việc cấp trên giao, để xin ý kiến chỉ đạo.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải thi hành ngay, đồng thời phải báo cáo với thủ trưởng trực tiếp của mình biết nội dung công việc cấp trên giao (trừ trường hợp cấp trên ra chỉ thị, mệnh lệnh yêu cầu không báo cáo nội dung với thủ trưởng trực tiếp).",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 14,
+    "question": "Khi cấp trên ra chỉ thị, mệnh lệnh, nếu thấy không phù hợp thì cấp dưới phải làm gì cho đúng với quy định của Điều lệnh nội vụCAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Báo cáo lý do và không thực hiện chỉ thị, mệnh lệnh.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Thực hiện ngay với tinh thần trách nhiệm, khẩn trương, chủ động, sáng tạo, sau khi xong việc sẽ đề đạt ý kiến với người ra chỉ thị, mệnh lệnh.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Đề đạt ý kiến với người ra chỉ thị, mệnh lệnh; nếu người ra chỉ thị, mệnh lệnh chưa thay đổi ý kiến, thì vẫn phải nghiêm chỉnh chấp hành.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 15,
+    "question": "Khi người thi hành chỉ thị, mệnh lệnh có ý kiến đề đạt, thì người ra chỉ thị, mệnh lệnh cần xử lý như thế nào cho đúng với quy định Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không chấp nhận và yêu cầu người nhận chỉ thị, mệnh lệnh phải thực hiện ngay.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Người ra chỉ thị, mệnh lệnh phải nghiên cứu xem xét; nếu thấy chưa đúng, phảikịp thời điều chỉnh, bổ sung, sửa đổi.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Yêu cầu người nhận chỉ thị, mệnh lệnh phải làm ngay; ý kiến đề đạt sẽ được nghiên cứu, xem xét, giải quyết sau.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 16,
+    "question": "Điều lệnh nội vụ CAND quy định, đơn vị và CBCS phải xây dựng chương trình, kế hoạch công tác tuần, tháng, quý như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Công an các đơn vị, địa phương phải xây dựng chương trình, kế hoạch công tác tuần, tháng, quý, 06 tháng, năm; cán bộ, chiến sĩ Công an nhân dân phải xâydựng chương trình, kế hoạch công tác tuần đượcđược lãnh đạo, chỉ huy trực tiếp phê duyệt.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Các đơn vị và CBCS CAND phải xây dựng chương trình, kế hoạch công tác tuần, tháng, quý, 6 tháng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Các đơn vị CAND phải xây dựng chương trình, kế hoạch công tác 6 tháng, năm.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 17,
+    "question": "Điều lệnh nội vụ CAND quy địnhCBCSghiSổkế hoạch công tác tuần như nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đầu tuần ghi dự kiến công tác, cuối tuần tổng hợp kết quả.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Sổ kế hoạch công tác tuần phải ghi đầy đủ, cụ thể dự kiến nội dung công việc trong tuần và kết quả thực hiện từng ngày.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cả hai phương án trên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 18,
+    "question": "CBCS CAND khi đi công tác hoặc thực hiện yêu cầu nghiệp vụ có phải xây dựng chương trình, kế hoạch công tác không?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không phải xây dựng chương trình, kế hoạch công tác vì đã có kế hoạch công tác cả năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phải xây dựng chương trình, kế hoạch công tác và được cấp có thẩm quyền duyệt.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Đi công tác xong về báo cáo kết quả với thủ trưởng.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 19,
+    "question": "TheoĐiều lệnh nội vụ CAND CBCS phải chấp hành kỷluậtcông tácnhư thế nàocho đúng?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "CBCS có mặt tại đơn vị trước giờ làm việc 5 phút và nghỉđúng giờ quy định.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "CBCS có mặt tại đơn vịđúng giờ làm việcvà nghỉ đúng giờ quy định.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "CBCS có mặt tại đơn vị trước giờ làm việc 10phút và nghỉ đúng giờ quy định.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 20,
+    "question": "Điều lệnh nội vụ CAND quy định trong chiến đấu, CBCS CAND phải thực hiện yêu cầu nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phảinêu cao chủ nghĩa anh hùng cách mạng, mưu trí, dũng cảm, sẵn sàng hy sinh bảo vệ Tổ quốc, bảo vệ Đảng, Nhà nước, Nhân dân và chế độ xã hội chủnghĩa;trong bất kỳ hoàn cảnh nào cũng phải kiên quyết bảo vệ đồng đội, bảo vệ Nhân dân, bảo vệ vũ khí, phương tiện chiến đấu, hồ sơ, tài liệu; giữ vững khí tiết của người Công an cách mạng.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Chấp hành nghiêm kỷ luật, mệnh lệnh, sẵn sàng nhận nhiệm vụ được giao.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Thực hiện nghiêm các quy định về phương án chiến đấu, tuyệt đối bảo vệ bí mật.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 21,
+    "question": "Khi gặp tình huống khẩn cấp, đột xuất, bất ngờ nguy hại đến an ninh trật tự, CBCS phải làm gì cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Thông báo cho đơn vị công an gần nhất biết để giải quyết.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Tham gia giải quyết và tìm mọi cách ngăn chặn hậu quảxẩy ra và báo ngay cho đơn vị Công an hoặc chính quyền địa phương nơi gần nhất để giải quyết.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Xác định không phải nhiệm vụ của mình giải quyết.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 22,
+    "question": "Điều lệnh nội vụCANDquy định CBCSkhi biệt phái, xã hội hóaphải chấp hành kỷluật công tác như thếnào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chấp hành nghiêm túc nội quy của đơn vị, không gây ảnh hưởng đến người khác và của đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Nêu cao tinh thần trách nhiệm, tư thế, lễ tiết tác phong nghiêm túc, giữ gìn phẩm chất, tư cách người Công an cách mạng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chấp hành nghiêm các nguyên tắc, chế độ công tác do Bộ Công an quy định; luôn giữgìn phẩm chất, tư cách người Công an cách mạng.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 23,
+    "question": "CBCS CAND khi tham gia tập huấn điềulệnh, huấn luyện quân sự, võ thuật, thể thao phải chấp hành quy định nào cho đúng?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chấp hành nghiêm nội quy, kỷ luật nơi luyện tập, thao trường và mệnh lệnh của người chỉ huy.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Chấp hành nghiêm nội quy, giữ đúng tư thế lễ tiết tác phong, kỷ luật nơi tập luyện.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Mang trang bị đầy đủ phục vụ công tác huấn luyện.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 24,
+    "question": "Theo Điều lệnh nội vụ CAND quy định, khi tổ chức hội họp, buổi lễ, người dự hội họp, buổi lễ có được ủy quyền cho người khác đi thay không?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Được ủy quyền cho người khác đi thay, không phải báo cáo cấp triệu tập vì đã có giấy mời của đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không được ủy quyền cho người khác đi thay.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Được ủy quyền cho người khác đi thay nhưng phải báo cáo và được cấp triệu tập đồng ý.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 25,
+    "question": "Đồng chícho biết khitổ chức hội họp, học tập người chủ trì có phải thông báo trước và chuẩn bị nội dung cuộc họp không?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải chuẩn bị nội dung và thông báo trước ít nhất 1 ngày (trừ trường hợp đột xuất).",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không phải thông báo cho CBCS vì hằng ngày CBCS đều phải đến đơn vị làm việc theo đúng giờ quy định, chỉ cần thông báo triệu tập họp.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Thông báo trước hai giờ là đảm bảo thời gian chuẩn bị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 26,
+    "question": "Theo Điều lệnh nội vụ CAND, khi cấp trên tổ chứchội họp,buổi lễ,học tậpCBCS dự có được rời khỏibuổi lễ,hội họp,học tậpngay sau khi người chủ trì tuyên bố kết thúc?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Được rời khỏi nơi hội nghị ngay sau khi người chủ trì tuyên bố kết thúc.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Được rời khỏi nơi hội nghị, hội họp và ra về cùng với lãnh đạo cấp trên.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Rời khỏi nơi hội họp, buổi lễ, học tập sau khi người chủ trì tuyên bố kết thúc, lãnh đạo cấp trên ra về.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 27,
+    "question": "Điều lệnh nội vụ CAND quy địnhtổ chức giao ban định kỳ đối vớiCông anxã,phường,thị trấn,đồn, trạm Công anvà đơn vị tương đương như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tổ chức giao ban hằng ngày.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Tổ chức giao ban hằng tuần.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tổ chức giao ban hằng tháng.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 28,
+    "question": "Điều lệnh nội vụ CAND quy định tổ chức giao ban định kỳ đối với Công ancấpphòng, banvà tương đương như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tổ chức giao ban hằng ngày.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Tổ chức giao banhằng tháng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tổ chức giao banhằng tuần.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 29,
+    "question": "Điều lệnh nội vụ CAND quy địnhlãnh đạo trực chỉ huy cónhiệm vụgì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải nắm vững tình hình mọi mặt của đơn vị để xử lý và giải quyết các công việc theo đúng chức trách nhiệm vụ được giao.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Nắm vững tình hình về công tác xây dựng lực lượng để xử lý và giải quyết.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Nắm vững quân số đơn vị, xử lý và giải quyết các yêu cầu công tác khác được giao.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 30,
+    "question": "Điều lệnh nội vụ CAND quy địnhcán bộ trực ban đơn vị cónhiệm vụgì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Giúpthủ trưởng đơn vị nắm vững quân số, vũ khí, trang bị, phương tiện; đề xuất xử lý và giải quyết các yêu cầu công tác, chiến đấu, xây dựng lực lượng, hậu cần kỹ thuật; phải đeo băng trực ban; ghi chép đầy đủ tình hình trong ca trực và các phương tiện cần thiết phục vụ công tác vào sổ trực ban, hết ca trực phải ký bàn giao cho ca sau.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Nắm tình hình của đơn vị về công tác chính trị tư tưởng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Đôn đốc việc thực hiện nhiệm vụ của CBCS trong ngày.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 31,
+    "question": "CBCS thường trực chiến đấu phải thực hiện những yêu cầu nào cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Trực tại nhà, khi nào lãnh đạo cấp trên triệu tập thì có mặt.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Giờ hành chính trực tại đơn vị, hết giờ thì trực tại nhà khi cần liên lạc qua điện thoại.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phảicó mặt tại đơn vị, mặc trang phục Công an nhân dân đúng quy định, sẵn sàng giải quyết công việc khi có yêu cầu.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 32,
+    "question": "TheoĐiều lệnh nội vụ CANDCBCS phải thực hiệnchế độ bảo mật như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải chấp hành nghiêm các quy định về bảo vệ bí mật của Đảng, Nhà nước và của Bộ Công an.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Phải chấp hành nghiêm các quy định về bảo vệ bí mật của Đảng, Nhà nước.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải chấp hành nghiêm các quy định về quy chế, chế độ công tác bảo mật của Bộ Công an và các Bộ ngành khác.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 33,
+    "question": "Khi phát hiện có dấu hiệu lộ, lọt bí mật của Đảng, Nhà nước hoặc của ngành, CBCS phải làm gì cho đúng với quy định của Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Nhắc nhở người để lộ, lọt bí mật và yêu cầu người đó phải rút kinh nghiệm để sửa chữa.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phải kịp thời có biện pháp ngăn chặn và báo cáo ngay cấp có thẩm quyền xem xét, xử lý.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Đề xuất lãnh đạo cấp trên có hình thức kỷ luật người để lộ, lọt bí mật.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 34,
+    "question": "Khi đang nghỉ phép, lãnh đạo yêu cầu có mặt để làm nhiệm vụ, CBCS phải làm thế nào cho đúng với quy định của Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Báo cáo lãnh đạo khi hết thời gian nghỉ phép sẽđếngiải quyết công việc.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Báo cáo lãnh đạo không lên đơn vị được vì đang giải quyết việc riêng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải có mặt kịp thời để nhận nhiệm vụ.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 35,
+    "question": "Điều lệnh nội vụ CAND quy định việc quản lý tài liệu được thực hiện như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải phân loại, quản lý, sử dụng theo đúng quy định bảo vệ bí mật nhà nước. Hết giờ làm việc, hồ sơ, tài liệu phải sắp xếp gọn gàng và bảo quản theo chế độ quy định. Làm việc ngoài giờ tại cơ quan, đơn vị hoặc mang theo tài liệu nghiệp vụ khi đi công tác phải được sự đồng ý của thủ trưởng đơn vị và có trách nhiệm bảo vệ an toàn.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Quản lý tài liệu theo nội quy đơn vị, quản lý, sử dụng theo quy định bảo mật.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Quản lý tài liệu theo yêu cầu của thủ trưởng đơn vị và có trách nhiệm bảo vệ an toàn.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 36,
+    "question": "CBCS được giao quản lý và sử dụng vũ khí, công cụ hỗ trợ, phương tiện nghiệp vụ phải thực hiện quy định nào sau đây?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Quy định của pháp luật và của Bộ Công an.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Quy định của đơn vị, nhà sản xuất, Bộ Công an.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cả hai phương án trên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 37,
+    "question": "Việc quản lý vũ khí, công cụ hồ trợ, phương tiện nghiệp vụ phải được quản lý như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải được quản lý chặt chẽ theo quy định, bảo đảm an toàn; có giấy phép sử dụng và sổ theo dõi; phân công cán bộ quản lý phải có chuyên môn về quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và ghi chép, giao nhận, bảo dưỡng theo quy định, bảo đảm yêu cầu sẵn sàng chiến đấu; phải chấp hành yêu cầu khi kiểm tra.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Giao cho cán bộ quản lý theo chế độ quy định.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Thường xuyên kiểm tra công tác quản lý, giao nhận vũ khí.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 38,
+    "question": "CBCS trước khi nghỉ hưu, chuyển sang lực lượng khác tronghoặc ngoàiCAND phải trả cho đơn vị những gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Lễ phục CAND, huân, huy chương và các danh hiệu vinh dự khác.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Vũ khí, công cụ hỗ trợ và các phương tiện nghiệp vụ, hồ sơ, tài liệu,giấy chứng minh CAND,giấy tờ về điều tra hình sự, thanh tra, kiểm tra đặc biệt, kiểm tra điều lệnh, tuần tra kiểm soát giao thông.... do lực lượng Công an cấpđể phục vụ công tác.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Trang phục thường dùng, Công an hiệu, cấp hiệu, cành tùng đơn, mũ kê pi.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 39,
+    "question": "Đồng chí cho biết trang phục CAND gồm nhữngloại nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Trang phục thường dùng xuân hè, trang phục thường dùng thu đông, áo mưa, áo bạt cấp theo niên hạn.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lễ phục xuân hè, lễ phục thu đông; trang phục thường dùng; trang phục chuyên dùng.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Trang phục thường dùng xuân hè, trang phục thường dùng thu đông, áo sơ mi trắng.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 40,
+    "question": "Đồng chí cho biết trang phục CAND phải sử dụng như nào cho đúng với quy định Điều lệnh nội vụCAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải đồng bộ, thống nhất, gọn gàng, sạch sẽ, là phẳng, cài đủkhóa,cúc; đeo cấp hiệu, phùhiệu, số hiệu, ký hiệu, dây lưng, đeo caravát (đối với trang phục thu đông); đi giày, tất do Bộ Công an cấp...",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Mặc trang phục đúng theo quy định cấp phát, đồng bộ, thống nhất, gọn gàng, sạch sẽ.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Mặc trang phục phải giữ đúng tư thế tác phong, đeo cành tùng đơn, cấp hiệu, phù hiệu, số hiệu, ký hiệu.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 41,
+    "question": "Đồng chí cho biết trong quá trình sản xuất, sử dụng trang phục CAND có những điểm cấm nào sau đây?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Nghiêm cấm Công an các đơn vị, địa phương, cán bộ, chiến sĩ Công an nhân dân sản xuất, làm giả, tàng trữ, đổi, cho, tặng, mua, bán và sử dụng trái phép trang phục; cấm viết, vẽ lên trang phục; sửa chữa, thay đổi quy cách, kiểu dáng, màu sắc và chất liệu của trang phục Công an nhân dân.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Cấm cho mượn sửa chữa, thay đổi quy cách, kiểu dáng, màu sắc, chất liệu của trang phục.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cấm đổi trang phục khi chưa có ý kiến của thủ trưởng đơn vị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 42,
+    "question": "Đồng chí cho biết việc đeo huân chương, huy chương, kỷ niệm chương, danh hiệu vinh dự Nhà nước ở vịtrí nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đeo ở ngực áo bên phải.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đeo ở ngực áo bên trái.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Đeo ở hai bên ngực áo.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 43,
+    "question": "Đồng chí cho biếthuân chương, huy chương, kỷ niệm chương, danh hiệu vinh dự Nhà nước,thứ tựđeo như nào là dúng?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đeo hạng bậc thấp bên trên, hạng bậc cao bên dưới.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Hạng bậc thấp, hạng bậc cao đeo ngang hàng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Đeo hạng bậc cao bên trên, hạng bậc thấp bên dưới.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 44,
+    "question": "CBCS CAND được đeo khẩu trang, găng tay trong những trường hợp nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Cán bộ, chiến sĩ khi làm việc ở ngoài trời, nơi công cộng có nhiều khói bụi.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lực lượng cảnh sát khi làm nhiệm vụ tuần tra, kiểm soát giữ trật tự.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cán bộ, chiến sĩ làm nhiệm vụ có tính đặc thù (khám chữa bệnh và phòng chốngdịch bệnh, giám định, khám nghiệm hiện trường, chữa cháy, cứu hộ cứu nạn.)",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 45,
+    "question": "CBCS mặc trang phụcCANDtrong các trường hợpnào sau đâyphải đội mũ kêpi?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Làm việc, học tập, huấn luyệnở ngoài trời;",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Làm việc,hội họp,học tập ởtrong nhà.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Dựđại hội đảng các cấp.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 46,
+    "question": "Đồng chí cho biết CBCS đội mũ cứng khi mặc trang phục CAND trong các trường hợp nàosau đây?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đi công tác ở vùng sâu, vùng xa, vùng sông nước trong mưa bão; canh gác, dẫn giải và hướng dẫn phạm nhân, trại viên, học sinh ở các trường giáo dưỡng đi lao động sản xuất; khi chiến đấu, luyện tập, diễn tập, phòng chống thiên tai.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Khi tập luyện đội ngũ ngoài trời nắng.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Khi tập luyện và kiểm tra bắn đạn thật ngoài trời.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 47,
+    "question": "Đồng chí cho biết quy định, mặc trang phục đeo dây chéo trong các trường hợp nào sau đây?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Trực tiếp làm nhiệm vụ giữ gìn trật tự an toàn giao thông, trật tự công cộng; tuần tra, kiểm soát, canh gác, bảo vệ mục tiêu;Tổ Công an kỳ trong diễu, duyệt binh;dẫn giải phạm nhân, trại viên, bị can, bị cáo; mặc trang phục chuyên dùng khi làm nhiệm vụ trong đội danh dự, nhạc lễ, tiêu binh, hộ tống danh dự và trong các trường hợp khác theo quy định của Bộ Công an.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Dự lễ kỷ niệm khi tham gia mít tinh.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Khi trong đội hình huấn luyện tham gia thi điều lệnh.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 48,
+    "question": "Khi đeo băng trực ban, băng kiểm tra điều lệnh, băng công tác khác thì đeo ở vị trí nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đeo ở cánh tay trên của tay phải.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đeo ở cảnh tay trên của tay trái.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Để trên bàn làm việc hoặc để trong cặp khi có yêu cầu thì sử dụng.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 49,
+    "question": "Đồng chí cho biết CBCS Công an từ tỉnh Thừa ThiênHuế trở ra mặc trang phục xuân hè từ ngày nào đến ngày nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ ngày1/4 đến hết ngày 31/10 hằng năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Từ ngày 15/4 đến hết ngày 15/11 hằng năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Từ ngày 15/3 đến hết ngày 15/10 hằng năm.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 50,
+    "question": "Đồng chí cho biết CBCS Công an từ tỉnh Thừa ThiênHuế trở ra mặc trang phục thu đông từ ngày nào đến ngày nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ ngày 1/11 năm trước đến hết ngày 31/3 năm sau.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Từ ngày 10/11 năm trước đến hết ngày 10/3 năm sau.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Từ ngày 15/11 năm trước đến hết ngày 15/3 năm sau.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 51,
+    "question": "Đồng chí cho biếtđiều lệnh quy địnhthời gian giao mùa giữa mùa đông và mùa hè là bao nhiêu ngày?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "15 ngày.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "0 ngày.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "1 tháng 15ngày.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 52,
+    "question": "Cấp nào quyết định cho CBCS mặc thường phục trongtrường hợp do yêu cầu công tác hoặc cần xã hội hóa?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Cục trưởng, Giám đốc Công an tỉnh, thành phố trực thuộc trung ươngvà tương đương.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Cấp Trưởng phòng và tương đương, trưởng Công an cấp huyện, thị xã, thành phố.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cấp trung đội, đại đội thuộc tiểu đoàn.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 53,
+    "question": "Đồng chí cho biết CBCS có cùng cấp bậc, chức vụ khi gặp nhau ai phải chào trước ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Người nào được bổ nhiệm chức vụ sau phải chào trước.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Người nào có tuổi đời thấp hơn hoặc nhìn thấy trước phải chào trước.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Nguời có thâm niên công tác ít hơn phải chào trước.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 54,
+    "question": "CBCS thường xuyên gặp nhau trong ngày thì việc chào được thực hiện như thếnào cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Gặp lúc nào thì chào lúc đó bằng động tác.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không phải chào vì đã biết nhau rồi.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Lần đầu chào bằng động tác, lần sau chào bằng lời.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 55,
+    "question": "Trong trường hợp phạm nhân, trại viên chào CBCS làm nhiệm vụ ởcác trại giam, trại tạm giam cán bộ được chào phải chào lại như thế nào cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chào lại bằng động tác.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chào lại bằng lời.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Không phải chào lại.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 56,
+    "question": "Đồng chí cho biết trong trường hợp nào CBCS CAND gặp nhau không phải chào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Trường hợp công tác ở cùng một đơn vị hàng ngày gặp nhau.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Trong trường hợp cần giữ bí mật.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Trong trường hợp mặc thường phục.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 57,
+    "question": "CBCS CAND gặp nhau trong trường hợp đang mặc thường phục thì chào nhau theo hình thức nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chào nhau bằng lời.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Chào nhau bằng động tác.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chào bằng động tác và bằng lời.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 58,
+    "question": "Điều lệnh nội vụ CAND quy định trước và sau khi thực hiện việc tuyên bố lý do, giới thiệu đại biểu; trước và sau khi phát biểu lần đầu trong hội nghị, hội thi, hội thao, buổi lễ; trước và sau khi dẫn chương trình các buổi sinh hoạt, hoạt động văn hóa, văn nghệ phải thực hiện chào bằng động tác, vị trí đứng chào ở đâu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đứng giữa sân khấu hoặc hội trường.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đứng bên cạnh bục.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tại nơi đứng phát biểu.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 59,
+    "question": "Trường hợp gặp, làm việc với CBCS trong lực lượng CAND, CBCS Quân đội nhân dân, đồng chí thực hiện hình thức chào nào cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chào bằng lời.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chào bằng động tác.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chào bằng động tác hoặc kết hợp chàobằng lời.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "ầu 6. Khi được giới thiệu là đại biểu đến dự trong các hội nghị, hội thi, hội thao, buỗi lễ, sinh hoạt, học tập, trường hợp đồng chí đang ngồi ở vị trí trên lễ đài thì phải thực hiện chào như thế nào?",
+        "correct": false
+      },
+      {
+        "label": "A",
+        "text": "Đứng dậy đi về giữa lễ đài thực hiện động tác chào.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đứng đậy hướng về phía đơn vị thực hiện động tác chào.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Đứng dậy đi về đứng trên bục thực hiện động tác chào.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 7
+    }
+  },
+  {
+    "number": 60,
+    "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc với đơn vị nếu đơn vị đang đứng thành hàng ngũ, thì đồng chí chỉ huy hoặc trực ban phải làm gì cho đúng với quy định trong Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chỉnh đốn đội hình rồi chờ cấp trên hoặc Trưởng đoàn ra chỉ thị, mệnh lệnh, xong cán bộ, chiến sĩ vỗ tay chào mừng (nếu trong tay không giữ phương tiện dụng cụ gì).",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chỉnh đốn đội hình, chào báo cáo cấp trên hoặc Trưởng đoàn theo Điều lệnh đội ngũ.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cho đội hình giải tán, nhanh chóng mời cấp trên hoặc Trưởng đoàn vào phòng làm việc để tiếp đón.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 61,
+    "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc với đơn vị, nếu đơn vị không đứng thành hàng ngũ, đồng chí chỉ huy hoặc trực ban đơn vị phải làm gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hô “nghiêm”, chào báo cáo cấp trên.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Cho đội hình giải tán, nhanh chóng mời cấp trên hoặc Trưởng đoàn vào làm việc để tiếp đón.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tập hợp đơn vị, chỉnh đốn hàng ngũ, hô nghiêm, chào báo cáo cấp trên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 62,
+    "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc, nếu đơn vị đang hội họp, học tập hoặc sinh hoạt tập trung thì đồng chí chỉ huy hoặc trực ban đơn vị phải làm gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hô “nghiêm”, chào báo cáo cấp trên.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Hô “nghiêm” (nếu cán bộ, chiên sĩ đơn vị đang đứng) hoặc hô “đơn vị chú ý”, “đứng dậy” (nếu cán bộ, chiến sĩ đơn vị đang ngồi), hô “nghiêm”, sau đó chào báo cáo cấp trên theo Điều lệnh đội ngũ.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cho đội hình giải tán, nhanh chóng mời cấp trên hoặcTrưởng đoàn vào phòng làm việc đểtiếp đón.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 63,
+    "question": "Khi có đoàn kiểm tra hoặc cấp trên đến thăm, làm việc với đơn vị, trước khi cấp trên ra về, chỉ huy hay trực ban đơn vị phải làm gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Cho đơn vị giải tán, đợi cấp trên hoặc đoàn kiểm tra ra về mới cho đơn vị tiếp tục làm việc.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Hô “nghiêm” (nếu cán bộ, chiến sĩ đơn vị đang đứng) hoặc hô “đơn vị đứng dậy” (nếu cán bộ, chiên sĩ đơn vị đang ngồi), hô “nghiêm”, chào cấp trên ra về rồi mới cho đơn vị làm việc hoặc giải tán.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cho đơn vị tiệp tục làm việc bình thường, đồng chí chỉ huy tiễn đoàn kiểm tra hoặc cấp trên ra về.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 64,
+    "question": "Đồng chí cho biết khi giao tiếp với người nước ngoài, CBCS CAND xưng hô thế nào cho đúng với quy định?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tùy theo quan hệ ngoại giao của Việt Nam với quốc gia, tổ chức quốc tế khách đến thăm để gọi là “đồng chí” hoặc “ngài”, “ông”, “bà”, “vương hiệu”, “tước hiệu”hoặc theo thông lệ ngoại giaovà xưng “tôi” cho phù hợp.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Tùy theo quan hệ ngoại giao với quốc gia, tổ chức quốc tế khách đến thăm để xưng hô cho phù hợp.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tùy theo khách đến thăm để xưng hô cho phù hợp.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 65,
+    "question": "Đồng chí cho biết khi vào phòng của cấp trên, cấp dưới không được mang những loại trang bị nào ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không mang máy ảnh vào phòng làm việc.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không mang vũ khí, công cụ hỗ trợ vào phòng làm việc.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Không được mang máy quay Camera.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 66,
+    "question": "Khi gặp cấp dưới tại phòng làm việc, cấp trên phải tỏ thái độ như thế nào cho đúng với quy định?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Ân cần, lắng nghe để xem xét, giải quyết những đề nghị chính đáng của cấp dưới.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Yêu cầu cấp dưới viết những đề nghị của mình ra giấy, sau đó mời cấp dưới ra về, sẽ nghiên cứu trả lời sau.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Để cấp dưới đứng chờ, tiếp tục làm việc trên máy tính, sau đó mới xem xét đề nghị của cấp dưới.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 67,
+    "question": "Đồng chí cho biết khi làm nhiệm vụ phải ăn ở, sinh hoạt tại nhà dân, CBCS cần thực hiện những yêu cầu gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải tôn trọng nếp sống của gia đình và địa phương; tích cực tham gia lao động sản xuất, giúp dân phát triển kinh tế, xóa đói giảm nghèo.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phải tích cực tuyên truyền, vận động xóa bỏ việc trồngcây thuốc phiện.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải giữ đúng tư thế, lễ tết, tác phong; tôn trọng nếp sống của gia đình, phong tục, tập quán của địa phương và làm tốt công tác dân vận.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 68,
+    "question": "Điều lệnh nội vụ CAND quy định CBCS CAND khi sinh hoạt ở gia đình, nơi cư trú và những nơi khác phải thực hiện những yêu cầu gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải tích cực lao động sản xuất, phát triển kinh tế gia đình vững mạnh.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phải tích cực trong đấu tranh phòng, chống tội phạm, đảm bảo an ninh trật tự.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải gương mẫuchấp hành chủ trương, đường, lối, chính sách của Đảng, pháp luật của Nhà nước, quy định của địa phương; đoàn kết với nhân dân nơi cư trú; trong quan hệ gia đình phải hiếu thảo, bình đẳng, hòa thuận, giúp đỡ nhau cùng tiến bộ, thực hiện nếp sống văn minh, gia đình văn hóa.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 69,
+    "question": "Khi tiếp xúc với các đối tượng vi phạm pháp luật, CBCS ứng xử như thế nào cho đúng với quy định?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải giữ đúng tư thế, lễ tiết, tác phong, có thái độ ứng xử đúng mực, không có lời nói, hành vi xúc phạm, phân biệt đối xửvới người vi phạm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Có thái độ bình tĩnh, khôn khéo để xử lý tình huống.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải bình tĩnh, giữ đúng tư thế, tác phong; không phân biệt đối xử.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 70,
+    "question": "Điều lệnh nội vụ CAND quy định ứng xử khi giao tiếp với nhân đân như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Thể hiện thái độ ứng xử có văn hóa, tôn trọng, khiêm tốn, bình tĩnh, tận tình, chu đáo, thực hiện theo đúng quy định củapháp luật và của Bộ Công an,luôn nêu cao tinh thần trách nhiệm, không sách nhiễu gâyphiền hà với Nhân dân.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Nêu cao tính thần trách nhiệm thực hiện nhiệm vụ được giao, không gây khó khăn phiền hà với Nhân dân.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Thực hiện đúng quy trình công tác.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 71,
+    "question": "CBCS đi mô tô, xe máy đến cơ quan làm việc phải để như thế nào cho đúng với quy định của Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Để xe ở vị trí thuận lợi, dễ lấy.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Để xe ở những chỗ râm mát, tránh hỏng hóc.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Để đúng nơi quy định.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 72,
+    "question": "Khi ra, vào cổng trụ sở cơ quan, doanh trại, chiến sĩ bảo vệ tại cổng có yêu cầu xuất trình giấy tờ để kiểm tra, đồngchíphải làm gì cho đúng với quy định của Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không xuất trình giấy tờ, cho rằng chiến sĩ bảo vệ không nắm vững được cán bộ thường xuyên ra vào cơ quan, đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Xuất trình giấy tờ theo yêu cầu của chiến sĩ bảo vệ.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Giải thích với chiến sĩ bảo vệ biết, mình làm cùng cơ quan.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 73,
+    "question": "Trong cơ quan, doanh trại, nơi ngủ, nghỉ của CBCS sắp xếp như thế nào cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phải trang trí đẹp, gọn gàng, giữ vệ sinh chung.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phải trật tự, ngăn nắp theo quy định của đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phải sắp xếp gọn gàng, ngăn nắp, vệ sinh sạch sẽ.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 74,
+    "question": "CBCS khi ăn tại nhàăn, nhà bếp cơ quan phải mặc như thế nào cho đúng với Điều lệnh nội vụ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Mặc quần dài, áo ba lỗ, đi giầy hoặc dép.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Mặc quần dài, áo có tay, đi giầy hoặc dép.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Mặc quần cộc (quần đùi) áo phông theo ý thích.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 75,
+    "question": "Đồng chí cho biết khi có bạn bè, người thân đến thăm, CBCS có được tiếp khách tại phòng ở đơn vị không?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Được phép.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không được phép tiếp khách tại đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Được phép, nhưng phải được sự đồng ý của thủ trưởng đơn vị.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 76,
+    "question": "Trong các trường hợp sau trường hợp nào không được mặc thườngphụckhi làm nhiệm vụ",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Cán bộ, chiến sĩ tạm tuyển",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Cán bộ, chiến sĩ chưa được cấp trang phục Công an nhân dân",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cán bộ, chiến sĩ nữ đang mang thai dưới 2 tháng tuổi.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 77,
+    "question": "Đồng chí hãy chobiếttrong các nội dung dưới đây nội dung nào chỉtrách nhiệm của người chỉ huykhi chỉ huyđội ngũ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Kiểm traquân số, vũ khí, khí tài, trang bị kỹ thuật trước và sau khi học tập,huấn luyện; kiểm tra trang phục và cách mang trang bịcủa từng ngườitheo quy định.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Kiểm tra tư thế tác phong của CBCS trước khi học tập huấn luyện.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Kiểm tra sổ ghi chép của CBCS, kiểm tra quân số, vũ khí trang bị kỹ thuật.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 78,
+    "question": "Trong trường hợp do yêu cầu công tác, chiến đấu cùng thực hiện nhiệm vụ, lãnh đạo cấp trên chưa chỉ định người chỉ huy thì phải căn cứ vào đâu để chọn ra người chỉ huy ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Căn cứ vào chức vụ, cấp bậc hàm, thâm niên công tác, tuổi đời.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Căn cứ vào tuổi đời, thâm niên công tác, chức vụ.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Căn cứ vào kinh nghiệm, tuổi đời, thâm niên công tác.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 79,
+    "question": "CBCS có được chuyển tài liệu mật qua mạng internet, mạng máy tính không?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đượcphép.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không chuyển tài liệu mật qua mạng internet, mạng máy tính không được bảo mật theo quy định của Bộ trưởng Bộ Công an.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Xin ý kiến thủ trưởng đơn vị, nếu đồng ý thì được chuyển.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 80,
+    "question": "Đồng chícho biết Điều lệnh đội ngũ quy định động tác chào thì cánh tay trên nâng lên ngang với thân người, tạo với thân người một góc bao nhiêu độ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "85.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "70.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "80.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 81,
+    "question": "Đồng chí cho biết giãn cách giữa hai cán bộ, chiến sĩ đứng cạnh nhau trên 1 hàng ngang là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "70 cen-ti-mét (cm).",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "75 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "85 cen-ti-mét (cm).",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 82,
+    "question": "Đồng chí cho biết cự ly giữa hai cán bộ, chiến sĩ đứng liền trước,sau là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "75 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "85 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "100 cen-ti-mét (cm).",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 83,
+    "question": "Đồng chí cho biết độ dài bước tiến, bước lùi là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "70 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "75 cen-ti-mét (cm).",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "85 cen-ti-mét (cm).",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 84,
+    "question": "Đồng chí cho biết độ dài bước đi đều, đi nghiêm là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "70 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "75 cen-ti-mét (cm).",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "85 cen-ti-mét (cm).",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 85,
+    "question": "Đồng chí cho biết độ dài bước chạy là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "75 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "80 cen-ti-mét (cm).",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "85 cen-ti-mét (cm).",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 86,
+    "question": "Điều lệnh đội ngũ CAND quy định độ dài bước qua phải, qua trái là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "70 cen-ti-mét(cm)",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "35 cen-ti-mét(cm)",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Rộng bằng vai",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 87,
+    "question": "Đồng chí cho biết tốc độ đi đều, đi nghiêm là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "100 bước/1 phút.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "106 bước/1 phút.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "110 bước/l phút.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 88,
+    "question": "Đồng chí cho biết tốc độ chạy đều là bao nhiêu?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "160 bước /l phút.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "170 bước/1 phút.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "180 bước /1 phút.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 89,
+    "question": "Đồng chí cho biếtvị trícủa lãnh đạo, chỉ huy trong đội hình tiểu đội, trung đội hàng dọc?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Cấp trưởng đứng trước, cấp phó thành một hàng ngang đứng sau cấp trưởng.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lãnh đạo, chỉ huy đứng phía trước đội hình, cấp trưởng đứng trước, cấp phó thành một hàng dọc đứng sau cấp trưởng.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cấp trưởng đứng trước, cấp phó đứng sau cách cấp trưởng 2 m.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 90,
+    "question": "Đồng chí cho biết vị trí của lãnh đạo, chỉ huy trong đội hìnhhàng ngang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Lãnh đạo đơn vịđứng thành một hàng dọc ngoài cùng bên trái đội hình.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lãnh đạo đơn vịđứng thành một hàng ngang bên trên chính giữa đội hình.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Lãnh đạo đơn vị đứng thànhmột hàng dọc ngoài cùng bên phải đội hình, cấptrưởng đứng trước, cấp phó đứng sau.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 91,
+    "question": "Đồng chí cho biết vị tríđôn đốc và truyền đạt mệnh lệnh của chỉ huy đội hình tiểu đội hàng ngang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chính giữa đội hình và cánh hàng trên cùng từ 3 đến 5 bước.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Chính giữa đội hình và cách hàng trên cùng từ 5 đến 8 bước.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chính giữa đội hình và cách hàng trên cùng khoảng cách thích hợp.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 92,
+    "question": "Đồng chí cho biết vị trí đôn đốc và truyền đạt mệnh lệnh của chỉ huy đội hình trung đội hàng ngang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chính giữa đội hình và cách hàng trên cùng từ 3 đến 5 bước.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chính giữa đội hình và cách hàng trên cùng từ 5 đến 8 bước.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Chính giữa đội hình và cách hàng trên cùng khoảng cách thích hợp.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 93,
+    "question": "Đồng chí cho biết vị trí chỉnh hàng của chỉ huy đội hình tiểu đội hàng ngang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chính giữa đội hình và cách hàng trên cùng từ 3 đến 5 bước",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chính giữa đội hình và cách hàng trên cùng từ 5 đến 8 bước",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Bên trái hoặc bên phải đội hình, cách đội hình từ 2 đến 3 bước",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 94,
+    "question": "Đồng chí cho biết vị trí chỉnh hàng của chỉ huy đội hình trung đội hàng ngang?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Bên trái hoặc bên phải đội hình, cách đội hình từ 3 đến 5 bước.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Bên trái hoặc bên phải đội hình, cách đội hình từ 5 đến 8 bước.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Bên trái hoặc bên phải đội hình, cách đội hình từ 2 đến 3 bước.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 95,
+    "question": "Đồng chí cho biết vị trí đôn đốc và truyền đạt mệnh lệnh của chỉ huy đội hình tiểu đội hàng dọc?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chính giữa phía trên đội hình, cách đội hình từ 3 đến 5 bước.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chếch bên trái đội hình 45% và cách đội hình từ 3 đến 5 bước.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Bên trái hoặc bên phải đội hình, cách đội hình từ 2 đến 3 bước.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 96,
+    "question": "Đồng chí cho biết vị trí chỉnh hàng của chỉ huy đội hình tiểu đội hàng dọc?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phía trước đối diện với đội hình, cách đội hình từ 2 đến 3 bước.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Chếch bên trái đội hình 45% và cách đội hình từ 2 đến 3 bước.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Bên trái hoặc bên phải đội hình, cách đội hình từ 2 đến 3 bước.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 97,
+    "question": "Đồng chí cho biếtCBCSkhi di chuyển trên 5 bước thì phải thực hiện động tác di chuyển nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đi đều hoặc chạy đều.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Tiến theo số bước quy định.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chạy đều.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 98,
+    "question": "Đồng chí cho biếtđơn vị khi di chuyển trên 5 bước thì phải thực hiện động tác di chuyển nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đi đều.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Tiến theo số bước quy định.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chạy đều.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 99,
+    "question": "Đồng chí cho biết vị trí chỉ huy khi tiểu đội hành tiến?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đi bên phảikhoảng 1/3đội hình từ trên xuống và cách đội hình từ 2 đến 3 bước.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đi chính giữa phía trước đội hìnhcách từ 2 đến 3 bước.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Đi bên trái khoảng 1/3 đội hình từ trên xuống và cách đội hình từ 2 đến 3 bước.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 100,
+    "question": "Trong hàng ngũ, CBCS nếu muốn ra khỏi hàng hoặc phát biểuý kiến thì giơ cánh tay nào lên và chếch về trước bao nhiêu độ.",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tay trái, 60",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Tay phải 45",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tay phải 60",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 101,
+    "question": "Đồng chí cho biết vị trí của chỉ huy đơn vị cấp đại đội đứng trong đội hình hàng ngang ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chỉ huy đại đội đứng thành một hàng dọc ngoài cùng bên trái đội hình.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Chỉ huy đại đội đứng thành một hàng ngang bên trên chính giữa đội hình.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Chỉ huy đai đội đứng thành một hàng dọc bên phải ngoài cùng đội hình, cấp trưởng đứng trước, cấp phó đứng sau.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 102,
+    "question": "Vị trí đôn đốc và truyền đạt mệnh lệnh đối với đội hình tiểu đội hàng ngang, đồng chí chỉ huy đứng cách đội hình đơn vị mấy bước?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ 3 đến 5 bước.B. Từ 5 đến 8 bước. C. Từ 8 đến 10 bước.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 1
+    }
+  },
+  {
+    "number": 103,
+    "question": "Vị trí đôn đốc và truyền đạt mệnh lệnh đối với đội hình trung đội hàng ngang, đồng chí chỉ huy đứng cách đội hình đơn vị mấy bước?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ 3 đến 5 bước.B. Từ 5 đến 8 bước.C. Từ 8 đến 10 bước.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 1
+    }
+  },
+  {
+    "number": 104,
+    "question": "Đồng chí cho biết vị trí đôn đốc của người chỉ huy đứng chếch đội hình hàng dọc bao nhiêu độ (°)?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "30°B. 45°.C.°.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 1
+    }
+  },
+  {
+    "number": 105,
+    "question": "Đồng chí cho biết khi chỉnh hàng dọc đội hình tiểu đội, người chỉ huy đứngởvị trí nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Phía trước bên phải đội hình chếch 45 độ.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Phía trước đối diện với đội hình, cách đội hình từ 2 đến 3 bước.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Phía trước bên trái đội hình chếch 45 độ.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 106,
+    "question": "Khi chỉ huy tiểu đội 1 hàng dọc hành tiến, người chỉ huy đi ở vị trí nào của đội hình?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đi bên phải khoảng 1/3 đội hình từ trên xuống và cách đội hình từ 02 đến 03 bước.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đi chính giữa phía trước đội hình.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Đi bên trái khoảng 1/3 đội hình từ trên xuống và cách đội hình từ 02 đến 03 bước.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 107,
+    "question": "Thông tư về Điều lệnh đội ngũ CAND quy định: Khẩu lệnh có dự lệnh và động lệnh, đồng chí phải hô như thế nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Dự lệnh hô to, rõ, hơi kéo dài, sau đó dừng ngắn trước khi hô động lệnh.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Dự lệnh hô to, dứt khoát, trước khi hô động lệnh.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Dự lệnh hô kéo dài, ngắt quãng, trước khi hô động lệnh.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 108,
+    "question": "Đồng chí cho biết trách nhiệm của người chỉ huy khi chỉ huy đội ngũ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Giao cho trực ban điều hành, chỉ huy giám sát việc thực hiện.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Trực tiếp chỉ huy đơn vị, vắng mặt phải ủy quyền cho cấp dưới. Kiểm tra quân số, vũ khí, khí tài, trang bị kỹ thuật trước và sau khi học tập, huấn luyện, kiểm tra trang phục và cách mang trang bị của từng người theo quy định.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cho đơn vị giải tán, nhận xét trong buổi giao ban đơn vị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 109,
+    "question": "Đồng chí cho biết cách nhận bằng huân chương, huy chương, bằng khen, giấy khen (có khung) sau đây, cách nào đúng quy định của Thông tư số 36 về Nghi lễ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hai tay đỡ phía dưới khung, cánh tay thẳng tự nhiên, mặt trước hướng về phía đơn vị.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Từ tư thế đứng nghiêm hai cánh tay trên khép sát sườn, hai cánh tay dưới hơi co lên tạo với thân người một góc 150 độ, hai bàn tayngửanắm cạnh dưới của khung, 4 ngón con khép lại bên ngoài, ngón cái ôm choàng cạnh bên khung bằng.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Hai tay đỡ phía dưới khung, hai cánh tay khép sát thân người, mặt trước hướng vê phía đơn vị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 110,
+    "question": "Đồng chí cho biết khi nhận phần thưởng là các loại giấy khen hoặc các quyết định không có có khung sau đây, cách nào đúng quy định của Thông tư số 36 về Nghi lễ CAND?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Khi cầm 02 tay co lên, 2 cánh tay dưới vuông góc với cánh tay trên, 4 ngón con khép lại bên ngoài, ngón cái bên trong, nắm chính giữa giấy khen hoặc quyết định và giữ nguyên tay cầm khi đi về vị trí.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Hai cánh tay trên khép sát sườn, hai cánh tay dưới hơi co lên tạo với thân người một góc 150 độ, hai bàn tay nắm cạnh dưới của khung, 4 ngón con khép lại bên ngoài, ngón cái ôm choàngcạnh bêncủa giấy khen.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Hai tay đỡ phía dưới giấy khen hoặc quyết định, hai cánh tay khép sát thân người, mặt trước hướng vềphía đơn vị.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 111,
+    "question": "Chào cờ Tổ quốc định kỳ hằng tháng, được tổ chức vào thời gian nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đầu giờ làm việc buổi sáng, ngày thứ hai của tuần đầu tháng.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đầu giờ làm việc buổi sáng, ngày làm việc đầu tiên của tuần đầu tháng(tuần không có ngày của tháng trước).",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Đầu giờ làm việc buổi sáng của ngày đầu tháng.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 112,
+    "question": "Khi chào cờ Tổ quốc ngoài trời, đồng chíđọc 5 lời thềdanh dự đứng ở vị trí nào ?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đứng bên phải, ngang hàng và cách chủ lễ l mét.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đứng bên trái, ngang hàng và cách chủ lễ 1 mét.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Đứng bên trái, ngang hàng và cách chủ lễ 1,5 mét.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 113,
+    "question": "Khi lãnh đạo cấp trên trao Huân chương hoặc Bằng khen, Giấy khen, trước khi nhận, CBCS phải thực hiện những động tác nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Tiến 1 bước, đứng nghiêm thực hiện động tác chào.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Tiến 1 bước, đứng nghiêm thực hiện động tác chào và bắt tay cấp trên khi cấp trên đưa tay ra bắt tay trước.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Tiến 1 bước, thực hiện động tác chào và chủ động đưa tay ra bắt tay cấp trên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 114,
+    "question": "Khi cấp trên trao Huân chương hoặc Bằng Khen, Giấy khen, CBCS nhận xong phải thực hiện động tác gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đứng nghiêm tại chỗ.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lùi 1 bước về vịtrí, đứng nghiêm.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Chào lại cấp trên, sau đó lùi l bước.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 115,
+    "question": "Chào cờ Tổ quốc ngoài trời, khi nghe dứt khẩu lệnh \"Chào cờ - chào”, những đồng chí nào phai thực hiện động tác chào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Chủ lễ, trực ban buổi lễ và cán bộ, chiến sĩ đứng hàng trên cùng thực hiện động tác chào.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Cán bộ, chiến sĩ đứng hàng trên cùng thực hiện động tác chào.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tất cả cán bộ, chiến sĩ tham gia chào cờ thực hiện động tác chào.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 116,
+    "question": "Khi chào cờ Tổ quốc tổ chức ở ngoài trời, từ khi vào vị trí tập hợp đến khi kết thúc buổi lễ đồng chí chủ lễ đứng ở các vị trí nào sau đây?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Vị trí tập hợp; vị trí khi chào cờ Tổ quốc; vị trí khi nhận xét đánh giá tình hình, kết quả công tác.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Vị trí tập hợp; vị trí khi chào cờ Tổ quốc.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Vị trí tập hợp; vị trí khi nhận xét đánh giá tình hình, kết quả công tác và vị trí ban đầu (Vị trí tập hợp).",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 117,
+    "question": "Khi chào cờ Tổ quốc tổ chức ở ngoài trời, từ khi vào vị trí tập hợp đến khi kết thúc buổi lễ đồng chí trực ban phải đứng ở các vị trí nào sau đây?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Vị trí tập hợp; vị trí báo cáo; vị trí điều hành chào cờ Tổ quốc.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Vị trí tập hợp (vị trí khi lãnh đạo đơn vị nhận xét); vịtrí đôn đốc chỉnh đốn hàng ngũ; vị trí báo cáo (vị trí báo cáo kết thúc buổi lễ); vị trí điều hành chào cờ Tổ quốc.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Vị trí tập hợp; vị trí khi chào cờ Tổ quốc; vị trí khi nhận xét, đánh giá kết quả công tác.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 118,
+    "question": "Khi chào cờ Tổ quốc trong nhà có bàn ghế ngồi, trực ban buổi lễ đứng ở vị trí nào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đứng phía trên, bên phải và cách đội hình đơn vị một khoảng cách thích hợp.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Đứng phía trên, bên trái và cách đội hình một khoảng cách thích hợp.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Đứng ngang với hàng ghế đầu hướng về phía cờ Tổ quốc.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 119,
+    "question": "Đồng chí cho biết đội hình chào cờ Tổ quốc khi tổ chức buổi lễởtrong nhà có bàn, ghế ngồi?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Lãnh đạo đơn vị tham gia lễ chào cờ đứng ở hàng thứ nhất, lãnh đạo đơn vị trực thuộc đứng từ hàng ngang thứ 2 trở xuống, các hàng tiếp theo là cán bộ, chiến sĩ.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Lãnh đạo đơn vị tham gia lễ chào cờ, lãnh đạo đơn vị trực thuộc đứng hàng ngang thứ nhất và hàng thứ 2, các hàng tiếp theo là cán bộ, chiến sĩ.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Thực hiện theo phân công của chủ lễ, theo nguyên tắc từ trên xuống dưới, cấp trên ngồi trước, cấp dưới ngồi sau, người có cấp bậc hàm cao hơn ngồi trước, người có cấp bậc hàm thấp hơn ngồi sau.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 120,
+    "question": "Chào cờ Tổ quốc ở trong nhà có bàn ghế ngồi, khi nghe dứt khẩu lệnh \"Chào cờ - chào\", những đồng chí nào phải thực hiện động tác chào?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Đồng chí chủ lễ, trực ban lễ chào cờ, lãnh đạo đơn vị đứng hàng thứ nhất và lãnhđạo đơn vị trực thuộc đứng hàng ngang thứ 2, phía trước không có lãnh đạo đơn vị tổ chức buổi lễ.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Đồng chí chủ lễ, trực ban lễ chào cờ, đồng chí đọc 5 lời thề danh dự và cán bộ, chiến sĩ đứng hàng thứ nhất.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Tất cả cán bộ, chiến sĩ tham gia chào cờ thực hiện động tác chào.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 121,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không tổ chức giao ban; không tổ chức trực chỉ huy, trực ban, thường trực chiến đấu; không xây dựng chương trình, kế hoạch công tác tuần, tháng; không tổ chức chào cờ Tổ quốc định kỳ thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 122,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng chức trách, nhiệm vụ được giao thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 123,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng quy định của Bộ trưởng Bộ Công an về quản lý tài liệu; quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ, phương tiện nghiệp vụ; quản lý vật chứng, phương tiện và đồ vật tạm giữ; quản lý tài sản, phương tiện của đơn vị; thu hồi trang phục, Công an hiệu, cấp hiệu, phù hiệu, số hiệu, cành tùng, mũ kê-pi; thu hồi vũ khí, công cụ hỗ trợ, phương tiện nghiệp vụ, các giấy tờ công tác khác thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 124,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) trong giờ làm việc, giờ trực, ngày trực tại đơn vị có từ 5% cán bộ chiến sĩ trở lên không mặc trang phục CAND hoặc mặc trang phục không đúng quy định của Bộ trưởng Bộ Công an (trừ trường hợp Bộ có quy định khác); lập bàn thờ, để bát hương, thắp hương trong hội trường, phòng họp, phòng khách, phòng làm việc, phòng ở, nhà kho, nhà ăn tập thể, nơi để hồ sơ tài liệu thuộc phạm vi trụ sở đơn vị (trờ khi tổ chức lễ tang) thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 125,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng quy định của Bộ trưởng Bộ Công an về chế độ giao ban, hội họp, hội nghị, buổi lễ, học tập, huấn luyện, hội thi, hội thao; chế độ nghỉ cho cán bộ, chiến sĩ và trang trí khánh tiết hội trường, phòng họp của đơn vị thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 126,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) bố trí trực chỉ huy, trực ban, thường trực chiến đấu không đúng quy định của Bộ trưởng Bộ Công an thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 127,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) thực hiện không đúng quy định của Bộ trưởng Bộ Công an về nội vụ, vệ sinh trụ sở cơ quan, doanh trại; nội vụ, vệ sinh nơi ăn, ngủ, nghỉ của cán bộ, chiến sĩ; nội vụ, vệ sinh nơi sinh hoạt văn hóa, các trung tâm, cơ sở tập luyện, thi đấu điều lệnh, quân sự, võ thuật, thể dục, thể thao; nội vụ, vệ sinh nơi tiếp khách; công tá phòng, chống cháy, nổ, tiên tai và bảo vệ môi trường thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 128,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không xây dựng chương trình, kế hoạch công tác quý, 6 tháng, năm; không tổ chức sơ kết, tổng kết rút kinh nghiệm các chuyên đề công tác lớn, dài hạn, 6 tháng, 01 năm thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 129,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không phổ biến, không tổ chức thực hiện chỉ thị, mệnh lệnh, quyết định, quy trình, quy chế, quy định của cấp trên; bao che, xử lý không đúng quy định hoặc không xử lý vi phạm điều lệnh thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 130,
+    "question": "Theo Điều 8, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định đơn vị (từ cấp đội và tương đương trở lên) không xây dựng, triển khai kế hoạch công tác điều lệnh, quân sự, võ thuật; không quán triệt đầy đủ, kịp thời các văn bản chỉ đạo của cấp trên về công tác điều lệnh, quân sự, võ thuật thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 131,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về xưng hô khi giao tiếp, chào, chào báo cáo; ứng xử khi giao tiếp trong và ngoài lực lượng Công an nhân dân; ứng xử khi giao tiếp qua các phương tiện thông tin; khi làm nhiệm vụ tư thế, tác phong không nghiêm túc, để tay vào túi quần hoặc túi áo; đeo kính màu đen khi trực tiếp giải quyết công việc với người khác thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 132,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về kỷ luật công tác; kỷ luật khi hội họp, buổi lễ, học tập, giao ban; kỷ luật khi huấn luyện điều lệnh, quân sự, võ thuật, thể thao thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 133,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về sử dụng trang phục Công an nhân dân thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 134,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ thực hiện không đúng quy định của Bộ trưởng Bộ Công an về nội vụ, vệ sinh trụ sở cơ quan, doanh trại; nội vụ, vệ sinh nơi ăn, ngủ, nghỉ của cán bộ, chiến sĩ; nội vụ, vệ sinh nơi sinh hoạt văn hóa, các trung tâm, cơ sở tập luyện, thi đấu điều lệnh, quân sự, võ thuật, thể dục, thể thao; nội vụ, vệ sinh nơi tiếp khách; công tác phòng, chống cháy, nổ, tiên tai và bảo vệ môi trường thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 135,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ nhuộm tác khác màu đen và thực hiện không đúng quy định của Bộ trưởng Bộ Công an về mẫu tóc cán bộ, chiến sĩ Công an nhân dân; móng tay để dài, sơn màu, gắn đá, đồ trang sức; cán bộ, chiến sĩ nam để râu, ria ở cằm, ở cổ và trên mặt thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 136,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ không tham gia chào cờ Tổ quốc theo quy định; khi làm nhiệm vụ trực ban, trực tiếp dân không ghi chép nội dung liên quan trong ca trực vào sổ, không đeo băng trực ban, không ký nhận, bàn giao hoặc giao, nhận không đầy đủ với ca trước hoặc sau ca trực của mình thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 137,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ trong giờ làm việc, hội họp, học tập không mặc trang phục theo quy định, vắng mặc không có ký do, mang phương tiện có tính năng thông tin liên lạc vào phòng họp khi đã có quy định cấm; thực hiện không đúng các quy định của Bộ trưởng Bộ Công an về quy tắc ứng xử của Công an nhân dân thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 138,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ không nắm vững quy định của Bộ trưởng Bộ Công an về chức trách, nhiệm vụ và các mối quan hệ công tác; làm việc không có chương trình kế hoạch; không xây dựng chương trình, kế hoạch công tác tuần; báo cáo không đầy đủ, kịp thời kết quả thực hiện nhiệm vụ; vi phạm chế độ nghỉ dưỡng, nghỉ phép thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 139,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ uống rượu, bia và các chất có cồn trước, trong giờ làm việc, giờ nghỉ trưa của ngày làm việc, ngày trực, giờ trực; vi phạm chế độ trực chỉ huy, trực ban, thường trực chiến đấu thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 140,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ vi phạm các quy định về nếp sống văn minh, gia đình văn hóa; quy tắc, quy ước của chính quyền địa phương nơi công tác hoặc cư trú thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Phê bình.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 141,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ khi phát hiện vụ việc liên quan đến chức năng, nhiệm vụ của đơn vị cần phải giải quyết nhưng không giải quyết hoặc không báo cáo lãnh đạo cấp có thẩm quyền thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Xếp loại không hoàn thành nhiệm vụ trong năm.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 142,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ gây mất đoàn kết nội bộ, ảnh hưởng đến việc thực hiện nhiệm vụ chính trị và uy tín của lực lượng Công an thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Hạ một bậc danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Xếp loại không hoàn thành nhiệm vụ trong năm.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 143,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ khi chuyển sang đơn vị khác, lực lượng khác trong Công an nhân dân cố ý không nộp lại vũ khí, công cụ hỗ trợ, vật liệu nổ, phương tiện nghiệp vụ, tài liệu và các giấy tờ có liên quan (do lực lượng Công an cấp) cho đơn vị cũ thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Xử lý bằng hình thức khiển trách.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Xếp loại không hoàn thành nhiệm vụ trong năm.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 144,
+    "question": "Theo Điều 9, Thông tư số 02/2021/TT-BCA, ngày 11/01/2021 của Bộ Công an quy định cán bộ, chiến sĩ làm mất giấy tờ do lực lượng Công an cấp (thẻ điều tra viên, thẻ tuần tra kiểm soát, giấy kiểm tra điều lệnh) nhưng không kịp thời báo cáo để người khác lợi dụng thực hiện hành vi vi phạm pháp luật thì:",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Xử lý bằng hình thức khiển trách.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Không xét tặng danh hiệu thi đua năm.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Xếp loại không hoàn thành nhiệm vụ trong năm.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 145,
+    "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, cán bộ, chiến sĩ có nồng độ cồn trong hơi thở khi điều khiển phương tiện tham gia giao thông thì bị xem xét xử lý bằng hình thức gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ “Phê bình” trở lên.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Từ “Khiển trách” trở lên.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Từ “Cảnh cáo” trở lên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 146,
+    "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, cán bộ, chiến sĩ sử dụng rượu, bia, chất có cồn trong ngày làm việc, ngày trực, giờ nghỉ trưa của ngày làm việc thì bị xem xét xử lý bằng hình thức gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ “Phê bình” trở lên.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Từ “Khiển trách” trở lên.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Từ “Cảnh cáo” trở lên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 147,
+    "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, cán bộ, chiến sĩ bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ “Phê bình” trở lên.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Từ “Khiển trách” trở lên.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Từ “Cảnh cáo” trở lên.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 148,
+    "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, trách nhiệm liên đới của lãnh đạo cấp phòng, cấp đội trong ca trực, có cán bộ, chiến sĩ sử dụng rượu, bia, chất có cồn hoặc bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không hoàn thành nhiệm vụ năm.",
+        "correct": true
+      },
+      {
+        "label": "B",
+        "text": "Khiển trách.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Cảnh cáo.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 149,
+    "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, trách nhiệm liên đới của lãnh đạo cấp phòng, cấp đội trong ca trực, có từ 02 cán bộ, chiến sĩ trở lên sử dụng rượu, bia, chất có cồn hoặc bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Không hoàn thành nhiệm vụ năm.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Khiển trách.",
+        "correct": true
+      },
+      {
+        "label": "C",
+        "text": "Cảnh cáo.",
+        "correct": false
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  },
+  {
+    "number": 150,
+    "question": "Theo Điện 146 của Cục X03 về thông báo ý kiến chỉ đạo của Bộ trưởng Bộ công an, đối với lãnh đạo cấp phòng, cấp đội sử dụng rượu, bia, chất có cồn trong ngày làm việc, ngày trực, giờ nghỉ trưa của ngày làm việc; sử dụng rượu, bia, chất có cồn trước khi điều khiển phương tiện tham gia giao thông; bỏ vị trí công tác không có lý do thì bị xem xét xử lý bằng hình thức gì?",
+    "answers": [
+      {
+        "label": "A",
+        "text": "Từ “Phê bình” trở lên.",
+        "correct": false
+      },
+      {
+        "label": "B",
+        "text": "Từ “Khiển trách” trở lên.",
+        "correct": false
+      },
+      {
+        "label": "C",
+        "text": "Từ “Cảnh cáo” trở lên.",
+        "correct": true
+      }
+    ],
+    "meta": {
+      "hasExplicitCorrect": true,
+      "answersCount": 3
+    }
+  }
+]
